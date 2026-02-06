@@ -64,60 +64,60 @@ We are the Machine Learning team at [Amap](https://amap.com/) (AutoNavi), focusi
 
 ### 🧠 LLM Reasoning & Reinforcement Learning
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree Search for LLM Agent Reinforcement Learning | ICLR 2026 |
-| [GPG](https://github.com/AMAP-ML/GPG) | A Simple and Strong Reinforcement Learning Baseline for Model Reasoning | ICLR 2026 |
-| [MathForge](https://github.com/AMAP-ML/MathForge) | Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation | ICLR 2026 |
-| [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation | EMNLP 2025 |
-| [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | Position Bias Mitigated via Inter-Position Knowledge Distillation | EMNLP 2025 |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/Tree-GRPO?style=social) | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Adopts tree-search rollouts in place of independent chain-based rollouts for LLM agent RL, achieving superior performance with only a quarter of the rollout budget. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/GPG?style=social) | [GPG](https://github.com/AMAP-ML/GPG) | A minimalist RL approach (Group Policy Gradient) that directly optimizes the original RL objective, eliminating critic/reference models and KL constraints while outperforming GRPO. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social) | [MathForge](https://github.com/AMAP-ML/MathForge) | Proposes difficulty-aware GRPO and multi-aspect question reformulation to boost math reasoning by targeting harder questions from both algorithmic and data perspectives. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/HS-STaR?style=social) | [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | A hierarchical sampling framework that identifies boundary-level problems and dynamically reallocates sampling budget toward high-utility problems for self-taught reasoners. | EMNLP 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/Pos2Distill?style=social) | [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | A position-to-position knowledge distillation framework that transfers knowledge from advantageous positions to mitigate position bias in LLMs. | EMNLP 2025 |
 
 ### 🎨 Image Generation & Editing
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [FluxText](https://github.com/AMAP-ML/FluxText) | A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing | - |
-| [S2-Guidance](https://github.com/AMAP-ML/S2-Guidance) | Stochastic Self-Guidance for Training-Free Enhancement of Diffusion Models | ICLR 2026 |
-| [EPG](https://github.com/AMAP-ML/EPG) | Advancing End-To-End Pixel-Space Generative Modeling via Self-Supervised Pre-Training | ICLR 2026 |
-| [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | Omni-Effects: Implementation Code | AAAI 2026 |
-| [SCALAR](https://github.com/AMAP-ML/SCALAR) | Scale-wise Controllable Visual Autoregressive Learning | AAAI 2026 |
-| [USP](https://github.com/AMAP-ML/USP) | Unified Self-Supervised Pretraining for Image Generation and Understanding | ICCV 2025 |
-| [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Benchmarking Spatial Intelligence of Text-to-Image Models | ICLR 2026 |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/FluxText?style=social) | [FluxText](https://github.com/AMAP-ML/FluxText) | A novel text editing framework for multi-line scene text in complex visual scenarios, with Condition Injection LoRA module and regional text perceptual loss. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/S2-Guidance?style=social) | [S2-Guidance](https://github.com/AMAP-ML/S2-Guidance) | Leverages stochastic block-dropping to construct sub-networks for training-free guidance, surpassing CFG on text-to-image and text-to-video generation. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/EPG?style=social) | [EPG](https://github.com/AMAP-ML/EPG) | Advancing end-to-end pixel-space generative modeling via self-supervised pre-training. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/Omni-Effects?style=social) | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | A unified framework for prompt-guided and spatially controllable composite visual effects generation, using LoRA-MoE and spatial-aware prompts. | AAAI 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social) | [SCALAR](https://github.com/AMAP-ML/SCALAR) | Scale-wise controllable visual autoregressive learning for image generation. | AAAI 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/USP?style=social) | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social) | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
 
 ### 🎬 Video Generation & Understanding
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [NarrLV](https://github.com/AMAP-ML/NarrLV) | A Comprehensive Narrative-Centric Evaluation for Long Video Generation Models | ICLR 2026 |
-| [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints | AAAI 2026 |
-| [VMBench](https://github.com/AMAP-ML/VMBench) | A Benchmark for Perception-Aligned Video Motion Generation | ICCV 2025 |
-| [Eevee](https://github.com/AMAP-ML/Eevee) | Towards Close-up High-resolution Video-based Virtual Try-on | - |
-| [FingER](https://github.com/AMAP-ML/FingER) | Content-Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos | ACM MM 2025 |
-| [FE2E](https://github.com/AMAP-ML/FE2E) | - | - |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/NarrLV?style=social) | [NarrLV](https://github.com/AMAP-ML/NarrLV) | The first benchmark to comprehensively evaluate narrative expression capabilities of long video generation models, inspired by film narrative theory. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/ImagerySearch?style=social) | [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | A prompt-guided adaptive test-time search strategy that dynamically adjusts search space and reward for imaginative video generation with long-distance semantic dependencies. | AAAI 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/VMBench?style=social) | [VMBench](https://github.com/AMAP-ML/VMBench) | A perception-aligned video motion benchmark with human-aligned metrics achieving 35.3% improvement in Spearman's correlation over baselines. | ICCV 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social) | [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/FingER?style=social) | [FingER](https://github.com/AMAP-ML/FingER) | Content-aware fine-grained evaluation with reasoning for AI-generated videos. | ACM MM 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social) | [FE2E](https://github.com/AMAP-ML/FE2E) | - | - |
 
 ### 👁️ Multimodal & Vision-Language Models
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning Guided Universal Visual Grounding with Reinforcement Learning | - |
-| [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | Urban Socio-Semantic Segmentation with Vision-Language Reasoning | ICLR 2026 |
-| [RealQA](https://github.com/AMAP-ML/RealQA) | Realistic Image Quality and Aesthetic Scoring with Multimodal LLM | - |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | A GUI World Model via Renderable Code Generation | - |
-| [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
-| [STV](https://github.com/AMAP-ML/STV) | Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning | - |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/UniVG-R1?style=social) | [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning guided universal visual grounding with reinforcement learning. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social) | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | A vision-language reasoning framework for urban socio-semantic segmentation that simulates human annotation via cross-modal recognition and multi-stage RL-based reasoning. | ICLR 2026 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/RealQA?style=social) | [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social) | [Code2World](https://github.com/AMAP-ML/Code2World) | A GUI world model via renderable code generation. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/Taming-Hallucinations?style=social) | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/STV?style=social) | [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
 
 ### 🗺️ Maps, Mobility & Spatial Intelligence
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Reinforced Parallel Map-Augmented Agent for Geolocalization | - |
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios | - |
-| [DSFNet](https://github.com/AMAP-ML/DSFNet) | Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking | WWW 2025 |
-| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | - | - |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/Thinking-with-Map?style=social) | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social) | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | - |
+| ![](https://img.shields.io/github/stars/AMAP-ML/DSFNet?style=social) | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social) | [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | - | - |
 
 ### 🔍 Object Detection & Segmentation
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement | CCV 2025 |
-| [LD-RPS](https://github.com/AMAP-ML/LD-RPS) | LD-RPS | ICCV 2025 |
+| | Repository | Description | Venue |
+|:--|:--|:--|:--|
+| ![](https://img.shields.io/github/stars/AMAP-ML/UPRE?style=social) | [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-shot domain adaptation for object detection via unified prompt and representation enhancement. | CCV 2025 |
+| ![](https://img.shields.io/github/stars/AMAP-ML/LD-RPS?style=social) | [LD-RPS](https://github.com/AMAP-ML/LD-RPS) | LD-RPS. | ICCV 2025 |

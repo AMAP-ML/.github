@@ -2,7 +2,7 @@
 
 🤖 **Machine Learning @ Amap (Alibaba), Alibaba Group**
 
-We are the Machine Learning team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI product and cutting-edge research in large language models, computer vision, generative AI, agent, world model, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
+We are the Machine Learning team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, computer vision, generative AI, agent, world model, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
 
 
 We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) if you are interested.
@@ -121,7 +121,7 @@ We are always looking for talented interns and full-time researchers with strong
 
 ### 🔍 Object Detection & Segmentation
 
-| Repository | Description | Venue |
-|:--|:--|:--|
-| [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-shot domain adaptation for object detection via unified prompt and representation enhancement. | CCV 2025 |
+| Repository | Description | Venue     |
+|:--|:--|:----------|
+| [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-shot domain adaptation for object detection via unified prompt and representation enhancement. | ICCV 2025 |
 | [LD-RPS](https://github.com/AMAP-ML/LD-RPS) | LD-RPS. | ICCV 2025 |

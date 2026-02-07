@@ -4,6 +4,10 @@
 
 We are the Machine Learning team at [Amap](https://amap.com/) (AutoNavi), focusing on delivering AI product and cutting-edge research in large language models, computer vision, generative AI, agent, world model, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
 
+
+We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) if you are interested.
+
+
 ---
 
 ## 🔥 News

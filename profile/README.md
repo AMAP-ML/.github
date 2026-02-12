@@ -12,6 +12,8 @@ We are always looking for talented interns and full-time researchers with strong
 
 ## 🔥 News
 
+- **2026.02.09** 💻 We open-sourced [![Q-Hawkeye](https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social&label=Q-Hawkeye)](https://github.com/AMAP-ML/Q-Hawkeye) -- Reliable Visual Policy Optimization for Image Quality Assessment.
+- **2026.02.09** 💻 We open-sourced [![IntTravel](https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social&label=IntTravel)](https://github.com/AMAP-ML/IntTravel) -- A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation.
 - **2026.02.06** 💻 We open-sourced [![MobilityBench](https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social&label=MobilityBench)](https://github.com/AMAP-ML/MobilityBench) -- A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios.
 - **2026.02.06** 🎉 [![SpatialGenEval](https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social&label=SpatialGenEval)](https://github.com/AMAP-ML/SpatialGenEval) is accepted by **ICLR 2026** -- Benchmarking Spatial Intelligence of Text-to-Image Models.
 - **2026.02.06** 🎉 [![Tree-GRPO](https://img.shields.io/github/stars/AMAP-ML/Tree-GRPO?style=social&label=Tree-GRPO)](https://github.com/AMAP-ML/Tree-GRPO) is accepted by **ICLR 2026** -- Tree Search for LLM Agent Reinforcement Learning.
@@ -106,7 +108,8 @@ We are always looking for talented interns and full-time researchers with strong
 | [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning guided universal visual grounding with reinforcement learning. | - |
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | A vision-language reasoning framework for urban socio-semantic segmentation that simulates human annotation via cross-modal recognition and multi-stage RL-based reasoning. | ICLR 2026 |
 | [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | - |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | A GUI world model via renderable code generation. | - |
+| [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | - |
+| [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
 | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
 | [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
 
@@ -117,6 +120,7 @@ We are always looking for talented interns and full-time researchers with strong
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | - |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | - |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
+| [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | - |
 | [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | - | - |
 
 ### 🔍 Object Detection & Segmentation

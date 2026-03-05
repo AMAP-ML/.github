@@ -1,8 +1,8 @@
 # AMAP-ML
 
-🤖 **Machine Learning @ Amap (Alibaba), Alibaba Group**
+🤖 **Machine Learning @ Amap (AutoNavi), Alibaba Group**
 
-We are the Machine Learning team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, computer vision, generative AI, agent, world model, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
+We are the Machine Learning team at [Amap](https://amap.com/) (AutoNavi), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
 
 
 We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) if you are interested.
@@ -13,7 +13,7 @@ We are always looking for talented interns and full-time researchers with strong
 ## 🔥 News
 
 - **2026.02.28** 🎉 [![FASA](https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social&label=FASA)](https://github.com/AMAP-ML/FASA-ICLR2026) is accepted by **ICLR 2026** -- Frequency-Aware Sparse Attention.
-- **2026.02.27** 🎉 [![Eevee](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social&label=Eevee)](https://github.com/AMAP-ML/Eevee) is accepted by **CVPR 2026 Findings** -- Towards Close-up High-resolution Video-based Virtual Try-on.
+- **2026.02.27** 🎉 [![Eevee](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social&label=Eevee)](https://github.com/AMAP-ML/Eevee) is accepted by **Findings of CVPR 2026** -- Towards Close-up High-resolution Video-based Virtual Try-on.
 - **2026.02.24** 💻 We open-sourced [![IntRR](https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social&label=IntRR)](https://github.com/AMAP-ML/IntRR) -- A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation.
 - **2026.02.09** 💻 We open-sourced [![Q-Hawkeye](https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social&label=Q-Hawkeye)](https://github.com/AMAP-ML/Q-Hawkeye) -- Reliable Visual Policy Optimization for Image Quality Assessment.
 - **2026.02.09** 💻 We open-sourced [![IntTravel](https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social&label=IntTravel)](https://github.com/AMAP-ML/IntTravel) -- A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation.
@@ -78,7 +78,7 @@ We are always looking for talented interns and full-time researchers with strong
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Adopts tree-search rollouts in place of independent chain-based rollouts for LLM agent RL, achieving superior performance with only a quarter of the rollout budget. | ICLR 2026 |
 | [GPG](https://github.com/AMAP-ML/GPG) | A minimalist RL approach (Group Policy Gradient) that directly optimizes the original RL objective, eliminating critic/reference models and KL constraints while outperforming GRPO. | ICLR 2026 |
 | [MathForge](https://github.com/AMAP-ML/MathForge) | Proposes difficulty-aware GRPO and multi-aspect question reformulation to boost math reasoning by targeting harder questions from both algorithmic and data perspectives. | ICLR 2026 |
-| [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | A frequency-aware sparse attention mechanism that adaptively allocates computation based on token importance for efficient LLM inference. | ICLR 2026 |
+| [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention that identifies and preserves critical frequency components to achieve efficient and accurate sparse decoding. | ICLR 2026 |
 | [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | A hierarchical sampling framework that identifies boundary-level problems and dynamically reallocates sampling budget toward high-utility problems for self-taught reasoners. | EMNLP 2025 |
 | [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | A position-to-position knowledge distillation framework that transfers knowledge from advantageous positions to mitigate position bias in LLMs. | EMNLP 2025 |
 
@@ -101,7 +101,7 @@ We are always looking for talented interns and full-time researchers with strong
 | [NarrLV](https://github.com/AMAP-ML/NarrLV) | The first benchmark to comprehensively evaluate narrative expression capabilities of long video generation models, inspired by film narrative theory. | ICLR 2026 |
 | [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | A prompt-guided adaptive test-time search strategy that dynamically adjusts search space and reward for imaginative video generation with long-distance semantic dependencies. | AAAI 2026 |
 | [VMBench](https://github.com/AMAP-ML/VMBench) | A perception-aligned video motion benchmark with human-aligned metrics achieving 35.3% improvement in Spearman's correlation over baselines. | ICCV 2025 |
-| [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | CVPR 2026 Findings |
+| [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | Findings of CVPR 2026 |
 | [FingER](https://github.com/AMAP-ML/FingER) | Content-aware fine-grained evaluation with reasoning for AI-generated videos. | ACM MM 2025 |
 | [FE2E](https://github.com/AMAP-ML/FE2E) | - | - |
 
@@ -123,9 +123,9 @@ We are always looking for talented interns and full-time researchers with strong
 |:--|:--|:--|
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | - |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | - |
-| [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
 | [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | - |
-| [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework that internalizes hierarchical and flattened SIDs into the backbone, achieving deep collaborative-semantic integration with one-token-per-item complexity. | - |
+| [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework with recursive-assignment network for SID redistribution and single-token-per-item length reduction. | - |
+| [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
 | [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | - | - |
 
 ### 🔍 Object Detection & Segmentation

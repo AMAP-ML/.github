@@ -12,11 +12,11 @@ We are always looking for talented interns and full-time researchers with strong
 
 ## 🔥 News
 
-- **2026.03.15** 💻 We open-sourced [![T2I_OneStep](https://img.shields.io/github/stars/AMAP-ML/T2I_OneStep?style=social&label=T2I_OneStep)](https://github.com/AMAP-ML/T2I_OneStep) -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
+- **2026.03.15** 🎉 [![T2I_OneStep](https://img.shields.io/github/stars/AMAP-ML/T2I_OneStep?style=social&label=T2I_OneStep)](https://github.com/AMAP-ML/T2I_OneStep) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
+- **2026.03.10** 🎉 [![STV](https://img.shields.io/github/stars/AMAP-ML/STV?style=social&label=STV)](https://github.com/AMAP-ML/STV) is accepted by **AAAI 2026** -- Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning.
+- **2026.03.01** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
 - **2026.02.28** 🎉 [![FASA](https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social&label=FASA)](https://github.com/AMAP-ML/FASA-ICLR2026) is accepted by **ICLR 2026** -- Frequency-Aware Sparse Attention.
-- **2026.02.27** 🎉 [![T2I_OneStep](https://img.shields.io/github/stars/AMAP-ML/T2I_OneStep?style=social&label=T2I_OneStep)](https://github.com/AMAP-ML/T2I_OneStep) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
-- **2026.02.27** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
 - **2026.02.27** 🎉 [![Eevee](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social&label=Eevee)](https://github.com/AMAP-ML/Eevee) is accepted by **Findings of CVPR 2026** -- Towards Close-up High-resolution Video-based Virtual Try-on.
 - **2026.02.24** 💻 We open-sourced [![IntRR](https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social&label=IntRR)](https://github.com/AMAP-ML/IntRR) -- A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation.
 - **2026.02.09** 💻 We open-sourced [![Q-Hawkeye](https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social&label=Q-Hawkeye)](https://github.com/AMAP-ML/Q-Hawkeye) -- Reliable Visual Policy Optimization for Image Quality Assessment.
@@ -98,7 +98,7 @@ We are always looking for talented interns and full-time researchers with strong
 | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
 | [T2I_OneStep](https://github.com/AMAP-ML/T2I_OneStep) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
-| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass framework for geometry-guided multi-view consistent 3D scene editing. | - |
+| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | - |
 
 ### 🎬 Video Generation & Understanding
 
@@ -109,7 +109,7 @@ We are always looking for talented interns and full-time researchers with strong
 | [VMBench](https://github.com/AMAP-ML/VMBench) | A perception-aligned video motion benchmark with human-aligned metrics achieving 35.3% improvement in Spearman's correlation over baselines. | ICCV 2025 |
 | [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | Findings of CVPR 2026 |
 | [FingER](https://github.com/AMAP-ML/FingER) | Content-aware fine-grained evaluation with reasoning for AI-generated videos. | ACM MM 2025 |
-| [FE2E](https://github.com/AMAP-ML/FE2E) | Beyond generation: advancing image editing priors for depth and normal estimation. | CVPR 2026 |
+| [FE2E](https://github.com/AMAP-ML/FE2E) | Beyond Generation: Advancing image editing priors for depth and normal estimation. | CVPR 2026 |
 
 ### 👁️ Multimodal & Vision-Language Models
 

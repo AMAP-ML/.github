@@ -1,8 +1,8 @@
 # AMAP-ML
 
-🤖 **Machine Learning @ Amap (Alibaba), Alibaba Group**
+🤖 **Multimodal Learning @ Amap (Alibaba), Alibaba Group**
 
-We are the Machine Learning team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
+We are the Multimodal Learning team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
 
 
 We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) if you are interested.
@@ -12,6 +12,9 @@ We are always looking for talented interns and full-time researchers with strong
 
 ## 🔥 News
 
+- **2026.03.23** 💻 We open-sourced [![Omni-WorldBench](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=social&label=Omni-WorldBench)](https://github.com/AMAP-ML/Omni-WorldBench) -- A Comprehensive Benchmark for Evaluating Interactive Response Capabilities of World Models.
+- **2026.03.23** 💻 We open-sourced [![SCAR](https://img.shields.io/github/stars/AMAP-ML/SCAR?style=social&label=SCAR)](https://github.com/AMAP-ML/SCAR) -- Semantic Context Matters: Improving Conditioning for Autoregressive Image Generation.
+- **2026.03.15** 🎉 [![EMF](https://img.shields.io/github/stars/AMAP-ML/EMF?style=social&label=EMF)](https://github.com/AMAP-ML/EMF) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
 - **2026.03.15** 🎉 [![T2I_OneStep](https://img.shields.io/github/stars/AMAP-ML/T2I_OneStep?style=social&label=T2I_OneStep)](https://github.com/AMAP-ML/T2I_OneStep) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
 - **2026.03.10** 🎉 [![STV](https://img.shields.io/github/stars/AMAP-ML/STV?style=social&label=STV)](https://github.com/AMAP-ML/STV) is accepted by **AAAI 2026** -- Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning.
@@ -98,6 +101,8 @@ We are always looking for talented interns and full-time researchers with strong
 | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
 | [T2I_OneStep](https://github.com/AMAP-ML/T2I_OneStep) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
+| [EMF](https://github.com/AMAP-ML/EMF) | Extending one-step image generation from class labels to text via discriminative text representation (official implementation). | CVPR 2026 |
+| [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | - |
 
 ### 🎬 Video Generation & Understanding
@@ -122,6 +127,12 @@ We are always looking for talented interns and full-time researchers with strong
 | [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
 | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
 | [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
+
+### 🌍 World Models & Interactive AI
+
+| Repository | Description | Venue |
+|:--|:--|:--|
+| [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models across diverse scenarios. | - |
 
 ### 🗺️ Maps, Mobility & Spatial Intelligence
 

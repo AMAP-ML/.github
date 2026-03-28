@@ -13,7 +13,7 @@ We are always looking for talented interns and full-time researchers with strong
 ## 🔥 News
 
 - **2026.03.23** 💻 We open-sourced [![Omni-WorldBench](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=social&label=Omni-WorldBench)](https://github.com/AMAP-ML/Omni-WorldBench) -- A Comprehensive Benchmark for Evaluating Interactive Response Capabilities of World Models.
-- **2026.03.23** 💻 We open-sourced [![SCAR](https://img.shields.io/github/stars/AMAP-ML/SCAR?style=social&label=SCAR)](https://github.com/AMAP-ML/SCAR) -- Semantic Context Matters: Improving Conditioning for Autoregressive Image Generation.
+- **2026.03.23** 🎉 [![SCAR](https://img.shields.io/github/stars/AMAP-ML/SCAR?style=social&label=SCAR)](https://github.com/AMAP-ML/SCAR) is accepted by **CVPR 2026** -- Semantic Context Matters: Improving Conditioning for Autoregressive Image Generation.
 - **2026.03.15** 🎉 [![EMF](https://img.shields.io/github/stars/AMAP-ML/EMF?style=social&label=EMF)](https://github.com/AMAP-ML/EMF) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
 - **2026.03.15** 🎉 [![T2I_OneStep](https://img.shields.io/github/stars/AMAP-ML/T2I_OneStep?style=social&label=T2I_OneStep)](https://github.com/AMAP-ML/T2I_OneStep) is accepted by **CVPR 2026** -- Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.

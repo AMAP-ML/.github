@@ -2,6 +2,8 @@
 
 🤖 **DreamX Team @ Amap (Alibaba), Alibaba Group**
 
+[![GitHub Followers](https://img.shields.io/github/followers/AMAP-ML?label=Follow%20Us&style=social)](https://github.com/AMAP-ML)
+
 We are the DreamX team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
 
 

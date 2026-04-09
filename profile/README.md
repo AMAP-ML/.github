@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AMAP-ML/.github/main/images/DreamX.png" alt="AMAP-ML Logo" width="400px">
+  <h1 align="center">AMAP-ML</h1>
+  <h3 align="center">DreamX Team @ Amap (Alibaba)</h3>
 </p>
 
 <p align="center">
   <a href="https://github.com/AMAP-ML">
     <img src="https://img.shields.io/github/followers/AMAP-ML?label=Follow%20Us&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/AMAP-ML?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/AMAP-ML/.github?label=Public%20Repos&style=social&logo=github" alt="Public Repos">
   </a>
 </p>
 

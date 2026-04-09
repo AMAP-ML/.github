@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/images/banner.png" alt="AMAP-ML Banner" width="100%">
+  <img src="DreamX.png" alt="AMAP-ML Banner" width="100%">
 </p>
 
 <p align="center">

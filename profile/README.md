@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">AMAP-ML</h1>
-  <h3 align="center">DreamX Team @ Amap (Alibaba), Alibaba Group</h3>
+  <h3 align="center">DreamX Team @ Amap (Alibaba)</h3>
 </p>
 
 <p align="center">

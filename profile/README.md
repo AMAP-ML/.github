@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AMAP-ML/.github/main/images/DreamX.png" alt="AMAP-ML Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/AMAP-ML/.github/main/images/DreamX.png" alt="AMAP-ML Logo" width="400px">
 </p>
 
 <p align="center">

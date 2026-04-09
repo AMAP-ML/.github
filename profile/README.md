@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">AMAP-ML</h1>
-  <h3 align="center">DreamX Team @ Amap (Alibaba)</h3>
+  <img src="profile/images/banner.png" alt="AMAP-ML Banner" width="100%">
 </p>
 
 <p align="center">

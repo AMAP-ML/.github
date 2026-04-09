@@ -1,14 +1,24 @@
-# AMAP-ML
+<p align="center">
+  <h1 align="center">AMAP-ML</h1>
+  <h3 align="center">DreamX Team @ Amap (Alibaba), Alibaba Group</h3>
+</p>
 
-🤖 **DreamX Team @ Amap (Alibaba), Alibaba Group**
+<p align="center">
+  <a href="https://github.com/AMAP-ML">
+    <img src="https://img.shields.io/github/followers/AMAP-ML?label=Follow%20Us&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/AMAP-ML?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/AMAP-ML/.github?label=Public%20Repos&style=social&logo=github" alt="Public Repos">
+  </a>
+</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/AMAP-ML?label=Follow%20Us&style=social)](https://github.com/AMAP-ML)
+<p align="center">
+  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including <b>ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW</b>.
+</p>
 
-We are the DreamX team at [Amap](https://amap.com/) (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including **ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW**.
-
-
-We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) if you are interested.
-
+<p align="center">
+  We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at <a href="mailto:cxxgtxy@gmail.com">cxxgtxy@gmail.com</a> if you are interested.
+</p>
 
 ---
 

@@ -22,7 +22,6 @@
 ## 🔥 News
 
 - **2026.04.10** 💻 We open-sourced [![SkillClaw](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social&label=SkillClaw)](https://github.com/AMAP-ML/SkillClaw) -- Let Skills Evolve Collectively with Agentic Evolver.
-- **2026.03.31** 🎉 [![SCAR](https://img.shields.io/github/stars/AMAP-ML/SCAR?style=social&label=SCAR)](https://github.com/AMAP-ML/SCAR) is accepted by **CVPR 2026** -- Semantic Context Matters: Improving Conditioning for Autoregressive Image Generation.
 - **2026.03.23** 💻 We open-sourced [![Omni-WorldBench](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=social&label=Omni-WorldBench)](https://github.com/AMAP-ML/Omni-WorldBench) -- A Comprehensive Benchmark for Evaluating Interactive Response Capabilities of World Models.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
 - **2026.03.01** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
@@ -37,7 +36,6 @@
 - **2026.02.04** 🎉 [![NarrLV](https://img.shields.io/github/stars/AMAP-ML/NarrLV?style=social&label=NarrLV)](https://github.com/AMAP-ML/NarrLV) is accepted by **ICLR 2026** -- A Comprehensive Narrative-Centric Evaluation for Long Video Generation Models.
 - **2026.02.04** 🎉 [![EPG](https://img.shields.io/github/stars/AMAP-ML/EPG?style=social&label=EPG)](https://github.com/AMAP-ML/EPG) is accepted by **ICLR 2026** -- Advancing End-To-End Pixel-Space Generative Modeling via Self-Supervised Pre-Training.
 - **2026.02.04** 🎉 [![Omni-Effects](https://img.shields.io/github/stars/AMAP-ML/Omni-Effects?style=social&label=Omni-Effects)](https://github.com/AMAP-ML/Omni-Effects) is accepted by **AAAI 2026**.
-- **2026.02.04** 🎉 [![ImagerySearch](https://img.shields.io/github/stars/AMAP-ML/ImagerySearch?style=social&label=ImagerySearch)](https://github.com/AMAP-ML/ImagerySearch) is accepted by **AAAI 2026** -- Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints.
 - **2026.02.02** 🎉 [![VMBench](https://img.shields.io/github/stars/AMAP-ML/VMBench?style=social&label=VMBench)](https://github.com/AMAP-ML/VMBench) is accepted by **ICCV 2025** -- A Benchmark for Perception-Aligned Video Motion Generation.
 - **2026.01.31** 🎉 [![SocioReasoner](https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social&label=SocioReasoner)](https://github.com/AMAP-ML/SocioReasoner) is accepted by **ICLR 2026** -- Urban Socio-Semantic Segmentation with Vision-Language Reasoning.
 - **2026.01.07** 💻 We open-sourced [![Thinking-with-Map](https://img.shields.io/github/stars/AMAP-ML/Thinking-with-Map?style=social&label=Thinking-with-Map)](https://github.com/AMAP-ML/Thinking-with-Map) -- Reinforced Parallel Map-Augmented Agent for Geolocalization.
@@ -80,7 +78,6 @@
 | Repository | Description | Venue |
 |:--|:--|:--|
 | [NarrLV](https://github.com/AMAP-ML/NarrLV) | The first benchmark to comprehensively evaluate narrative expression capabilities of long video generation models, inspired by film narrative theory. | ICLR 2026 |
-| [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | A prompt-guided adaptive test-time search strategy that dynamically adjusts search space and reward for imaginative video generation with long-distance semantic dependencies. | AAAI 2026 |
 | [VMBench](https://github.com/AMAP-ML/VMBench) | A perception-aligned video motion benchmark with human-aligned metrics achieving 35.3% improvement in Spearman's correlation over baselines. | ICCV 2025 |
 | [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | Findings of CVPR 2026 |
 | [FE2E](https://github.com/AMAP-ML/FE2E) | Beyond Generation: Advancing image editing priors for depth and normal estimation. | CVPR 2026 |

@@ -56,11 +56,9 @@
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Adopts tree-search rollouts in place of independent chain-based rollouts for LLM agent RL, achieving superior performance with only a quarter of the rollout budget. | ICLR 2026 |
 | [GPG](https://github.com/AMAP-ML/GPG) | A minimalist RL approach (Group Policy Gradient) that directly optimizes the original RL objective, eliminating critic/reference models and KL constraints while outperforming GRPO. | ICLR 2026 |
 | [MathForge](https://github.com/AMAP-ML/MathForge) | Proposes difficulty-aware GRPO and multi-aspect question reformulation to boost math reasoning by targeting harder questions from both algorithmic and data perspectives. | ICLR 2026 |
-| [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention that identifies and preserves critical frequency components to achieve efficient and accurate sparse decoding. | ICLR 2026 |
 | [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | A hierarchical sampling framework that identifies boundary-level problems and dynamically reallocates sampling budget toward high-utility problems for self-taught reasoners. | EMNLP 2025 |
 | [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | A position-to-position knowledge distillation framework that transfers knowledge from advantageous positions to mitigate position bias in LLMs. | EMNLP 2025 |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Incentivizing reasoning and self-reflection capacity for VLA model in autonomous driving trajectory prediction via rule-based RL. | ICLR 2026 |
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Let Skills Evolve Collectively with Agentic Evolver. | - |
 
 ### 🎨 Image Generation & Editing
 
@@ -73,8 +71,7 @@
 | [SCALAR](https://github.com/AMAP-ML/SCALAR) | Scale-wise controllable visual autoregressive learning for image generation. | AAAI 2026 |
 | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
-| [T2I_OneStep](https://github.com/AMAP-ML/T2I_OneStep) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
-| [EMF](https://github.com/AMAP-ML/EMF) | Extending one-step image generation from class labels to text via discriminative text representation (official implementation). | CVPR 2026 |
+| [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | CVPR 2026 |
 
@@ -86,7 +83,6 @@
 | [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | A prompt-guided adaptive test-time search strategy that dynamically adjusts search space and reward for imaginative video generation with long-distance semantic dependencies. | AAAI 2026 |
 | [VMBench](https://github.com/AMAP-ML/VMBench) | A perception-aligned video motion benchmark with human-aligned metrics achieving 35.3% improvement in Spearman's correlation over baselines. | ICCV 2025 |
 | [Eevee](https://github.com/AMAP-ML/Eevee) | A high-resolution dataset and benchmark for video-based virtual try-on, supporting both full-shot and close-up garment detail views. | Findings of CVPR 2026 |
-| [FingER](https://github.com/AMAP-ML/FingER) | Content-aware fine-grained evaluation with reasoning for AI-generated videos. | ACM MM 2025 |
 | [FE2E](https://github.com/AMAP-ML/FE2E) | Beyond Generation: Advancing image editing priors for depth and normal estimation. | CVPR 2026 |
 
 ### 👁️ Multimodal & Vision-Language Models
@@ -98,8 +94,6 @@
 | [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | TMM |
 | [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | CVPR 2026 |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
-| [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
-| [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
 
 ### 🌍 World Models & Interactive AI
 
@@ -113,8 +107,6 @@
 |:--|:--|:--|
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | arXiv 2026 |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | arXiv 2026 |
-| [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | arXiv 2026 |
-| [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework with recursive-assignment network for SID redistribution and single-token-per-item length reduction. | arXiv 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
 | [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | ACL 2026 |
 
@@ -123,4 +115,3 @@
 | Repository | Description | Venue     |
 |:--|:--|:----------|
 | [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-shot domain adaptation for object detection via unified prompt and representation enhancement. | ICCV 2025 |
-| [LD-RPS](https://github.com/AMAP-ML/LD-RPS) | LD-RPS. | ICCV 2025 |

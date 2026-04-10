@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including <b>ICLR, CVPR, AAAI, ICCV, ACL, and EMNLP</b>.
+  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), focusing on delivering AI products and cutting-edge research in large language models, reinforcement learning, multimodal understanding, generative AI (image/video), world models, efficient inference, generative recommendation and intelligent mobility. Our work has been published at top-tier venues including <b>ICLR, CVPR, ICCV, ACL, EMNLP, and AAAI</b>.
 </p>
 
 <p align="center">

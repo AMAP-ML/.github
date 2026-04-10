@@ -97,7 +97,7 @@
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | A vision-language reasoning framework for urban socio-semantic segmentation that simulates human annotation via cross-modal recognition and multi-stage RL-based reasoning. | ICLR 2026 |
 | [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | TMM |
 | [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | CVPR 2026 |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | ACL 2026 |
+| [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
 | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
 | [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
 
@@ -116,7 +116,7 @@
 | [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | arXiv 2026 |
 | [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework with recursive-assignment network for SID redistribution and single-token-per-item length reduction. | arXiv 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
-| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | arXiv 2026 |
+| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | ACL 2026 |
 
 ### 🔍 Object Detection & Segmentation
 

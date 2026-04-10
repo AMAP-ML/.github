@@ -66,7 +66,7 @@
 
 | Repository | Description | Venue |
 |:--|:--|:--|
-| [FluxText](https://github.com/AMAP-ML/FluxText) | A novel text editing framework for multi-line scene text in complex visual scenarios, with Condition Injection LoRA module and regional text perceptual loss. | TMM |
+| [FluxText](https://github.com/AMAP-ML/FluxText) | A novel text editing framework for multi-line scene text in complex visual scenarios, with Condition Injection LoRA module and regional text perceptual loss. | - |
 | [S2-Guidance](https://github.com/AMAP-ML/S2-Guidance) | Leverages stochastic block-dropping to construct sub-networks for training-free guidance, surpassing CFG on text-to-image and text-to-video generation. | ICLR 2026 |
 | [EPG](https://github.com/AMAP-ML/EPG) | Advancing end-to-end pixel-space generative modeling via self-supervised pre-training. | ICLR 2026 |
 | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | A unified framework for prompt-guided and spatially controllable composite visual effects generation, using LoRA-MoE and spatial-aware prompts. | AAAI 2026 |

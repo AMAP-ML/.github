@@ -21,6 +21,8 @@
 
 ## 🔥 News
 
+- **2026.04.10** 💻 We open-sourced [![SkillClaw](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social&label=SkillClaw)](https://github.com/AMAP-ML/SkillClaw) -- Let Skills Evolve Collectively with Agentic Evolver.
+- **2026.03.31** 🎉 [![SCAR](https://img.shields.io/github/stars/AMAP-ML/SCAR?style=social&label=SCAR)](https://github.com/AMAP-ML/SCAR) is accepted by **CVPR 2026** -- Semantic Context Matters: Improving Conditioning for Autoregressive Image Generation.
 - **2026.03.23** 💻 We open-sourced [![Omni-WorldBench](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=social&label=Omni-WorldBench)](https://github.com/AMAP-ML/Omni-WorldBench) -- A Comprehensive Benchmark for Evaluating Interactive Response Capabilities of World Models.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
 - **2026.03.01** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
@@ -57,6 +59,8 @@
 | [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention that identifies and preserves critical frequency components to achieve efficient and accurate sparse decoding. | ICLR 2026 |
 | [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | A hierarchical sampling framework that identifies boundary-level problems and dynamically reallocates sampling budget toward high-utility problems for self-taught reasoners. | EMNLP 2025 |
 | [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | A position-to-position knowledge distillation framework that transfers knowledge from advantageous positions to mitigate position bias in LLMs. | EMNLP 2025 |
+| [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Incentivizing reasoning and self-reflection capacity for VLA model in autonomous driving trajectory prediction via rule-based RL. | ICLR 2026 |
+| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Let Skills Evolve Collectively with Agentic Evolver. | - |
 
 ### 🎨 Image Generation & Editing
 
@@ -72,7 +76,7 @@
 | [T2I_OneStep](https://github.com/AMAP-ML/T2I_OneStep) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
 | [EMF](https://github.com/AMAP-ML/EMF) | Extending one-step image generation from class labels to text via discriminative text representation (official implementation). | CVPR 2026 |
 | [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
-| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | - |
+| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | CVPR 2026 |
 
 ### 🎬 Video Generation & Understanding
 
@@ -89,11 +93,11 @@
 
 | Repository | Description | Venue |
 |:--|:--|:--|
-| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning guided universal visual grounding with reinforcement learning. | - |
+| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning guided universal visual grounding with reinforcement learning. | CVPR 2026 |
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | A vision-language reasoning framework for urban socio-semantic segmentation that simulates human annotation via cross-modal recognition and multi-stage RL-based reasoning. | ICLR 2026 |
-| [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | - |
-| [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | - |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
+| [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | TMM |
+| [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | CVPR 2026 |
+| [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | ACL 2026 |
 | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | - | - |
 | [STV](https://github.com/AMAP-ML/STV) | A sensitivity-aware task vector insertion framework that identifies context-sensitive heads and selects task vectors via RL for many-shot multimodal in-context learning. | AAAI 2026 |
 
@@ -101,18 +105,18 @@
 
 | Repository | Description | Venue |
 |:--|:--|:--|
-| [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models across diverse scenarios. | - |
+| [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models across diverse scenarios. | arXiv 2026 |
 
 ### 🗺️ Maps, Mobility & Spatial Intelligence
 
 | Repository | Description | Venue |
 |:--|:--|:--|
-| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | - |
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | - |
-| [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | - |
-| [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework with recursive-assignment network for SID redistribution and single-token-per-item length reduction. | - |
+| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | arXiv 2026 |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | arXiv 2026 |
+| [IntTravel](https://github.com/AMAP-ML/IntTravel) | A real-world dataset and generative framework for integrated multi-task travel recommendation. | arXiv 2026 |
+| [IntRR](https://github.com/AMAP-ML/IntRR) | A generative recommendation framework with recursive-assignment network for SID redistribution and single-token-per-item length reduction. | arXiv 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
-| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | - | - |
+| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | arXiv 2026 |
 
 ### 🔍 Object Detection & Segmentation
 

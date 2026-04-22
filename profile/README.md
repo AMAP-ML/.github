@@ -54,9 +54,6 @@
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Adopts tree-search rollouts in place of independent chain-based rollouts for LLM agent RL, achieving superior performance with only a quarter of the rollout budget. | ICLR 2026 |
 | [GPG](https://github.com/AMAP-ML/GPG) | A minimalist RL approach (Group Policy Gradient) that directly optimizes the original RL objective, eliminating critic/reference models and KL constraints while outperforming GRPO. | ICLR 2026 |
 | [MathForge](https://github.com/AMAP-ML/MathForge) | Proposes difficulty-aware GRPO and multi-aspect question reformulation to boost math reasoning by targeting harder questions from both algorithmic and data perspectives. | ICLR 2026 |
-| [HS-STaR](https://github.com/AMAP-ML/HS-STaR) | A hierarchical sampling framework that identifies boundary-level problems and dynamically reallocates sampling budget toward high-utility problems for self-taught reasoners. | EMNLP 2025 |
-| [Pos2Distill](https://github.com/AMAP-ML/Pos2Distill) | A position-to-position knowledge distillation framework that transfers knowledge from advantageous positions to mitigate position bias in LLMs. | EMNLP 2025 |
-| [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Incentivizing reasoning and self-reflection capacity for VLA model in autonomous driving trajectory prediction via rule-based RL. | ICLR 2026 |
 
 ### 🎨 Image Generation & Editing
 
@@ -66,10 +63,8 @@
 | [S2-Guidance](https://github.com/AMAP-ML/S2-Guidance) | Leverages stochastic block-dropping to construct sub-networks for training-free guidance, surpassing CFG on text-to-image and text-to-video generation. | ICLR 2026 |
 | [EPG](https://github.com/AMAP-ML/EPG) | Advancing end-to-end pixel-space generative modeling via self-supervised pre-training. | ICLR 2026 |
 | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | A unified framework for prompt-guided and spatially controllable composite visual effects generation, using LoRA-MoE and spatial-aware prompts. | AAAI 2026 |
-| [SCALAR](https://github.com/AMAP-ML/SCALAR) | Scale-wise controllable visual autoregressive learning for image generation. | AAAI 2026 |
 | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
-| [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | CVPR 2026 |
 
@@ -88,8 +83,7 @@
 |:--|:--|:--|
 | [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning guided universal visual grounding with reinforcement learning. | CVPR 2026 |
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | A vision-language reasoning framework for urban socio-semantic segmentation that simulates human annotation via cross-modal recognition and multi-stage RL-based reasoning. | ICLR 2026 |
-| [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | TMM |
-| [Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) | A GRPO-based framework for reliable visual policy optimization in image quality assessment with uncertainty-aware dynamic optimization and perception-aware optimization. | CVPR 2026 |
+| [RealQA](https://github.com/AMAP-ML/RealQA) | A 14,715-image UGC dataset with 10 fine-grained attributes for realistic image quality and aesthetic scoring; achieves SOTA on 5 public IQA/IAA benchmarks using next-token prediction. | - |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | A VLM-based GUI world model that predicts dynamic transitions via renderable code generation, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. | - |
 
 ### 🌍 World Models & Interactive AI

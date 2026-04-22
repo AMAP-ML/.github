@@ -21,6 +21,8 @@
 
 ## 🔥 News
 
+- **2026.04.22** 💻 We open-sourced [![DCW](https://img.shields.io/github/stars/AMAP-ML/DCW?style=social&label=DCW)](https://github.com/AMAP-ML/DCW) -- Elucidating the SNR-t Bias of Diffusion Probabilistic Models (CVPR 2026).
+- **2026.04.22** 💻 We open-sourced [![EMF](https://img.shields.io/github/stars/AMAP-ML/EMF?style=social&label=EMF)](https://github.com/AMAP-ML/EMF) -- Extending One-Step Image Generation from Class Labels to Text (CVPR 2026).
 - **2026.04.10** 💻 We open-sourced [![SkillClaw](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social&label=SkillClaw)](https://github.com/AMAP-ML/SkillClaw) -- Let Skills Evolve Collectively with Agentic Evolver.
 - **2026.03.23** 💻 We open-sourced [![Omni-WorldBench](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=social&label=Omni-WorldBench)](https://github.com/AMAP-ML/Omni-WorldBench) -- A Comprehensive Benchmark for Evaluating Interactive Response Capabilities of World Models.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
@@ -67,6 +69,8 @@
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
 | [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | CVPR 2026 |
+| [EMF](https://github.com/AMAP-ML/EMF) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
+| [DCW](https://github.com/AMAP-ML/DCW) | Elucidating the SNR-t bias of diffusion probabilistic models and proposing a differential correction method to improve generation quality across various diffusion models. | CVPR 2026 |
 
 ### 🎬 Video Generation & Understanding
 
@@ -96,7 +100,7 @@
 
 | Repository | Description | Venue |
 |:--|:--|:--|
-| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | arXiv 2026 |
+| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | ACL 2026 Findings |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | arXiv 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
 | [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | ACL 2026 |

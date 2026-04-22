@@ -67,7 +67,6 @@
 | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | A unified framework for prompt-guided and spatially controllable composite visual effects generation, using LoRA-MoE and spatial-aware prompts. | AAAI 2026 |
 | [USP](https://github.com/AMAP-ML/USP) | Unified self-supervised pretraining via masked latent modeling in VAE space, significantly improving diffusion model convergence and generation quality. | ICCV 2025 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | A benchmark with 1,230 information-dense prompts and 12,300 multi-choice questions to evaluate complex spatial intelligence in text-to-image models. | ICLR 2026 |
-| [SCAR](https://github.com/AMAP-ML/SCAR) | Semantic context matters: improving conditioning for autoregressive image generation with enhanced semantic guidance. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | An RL-based single-pass 3D scene editing framework using VGGT as geometry-aware reward model and GRPO to anchor 2D editing priors onto the 3D consistency manifold. | CVPR 2026 |
 | [EMF](https://github.com/AMAP-ML/EMF) | Extending one-step image generation from class labels to text via discriminative text representation. | CVPR 2026 |
 | [DCW](https://github.com/AMAP-ML/DCW) | Elucidating the SNR-t bias of diffusion probabilistic models and proposing a differential correction method to improve generation quality across various diffusion models. | CVPR 2026 |
@@ -94,6 +93,7 @@
 
 | Repository | Description | Venue |
 |:--|:--|:--|
+| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | A general-purpose world model for interactive world simulation, generating diverse, high-fidelity worlds that users can explore, control, and transform with event prompts. | - |
 | [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models across diverse scenarios. | arXiv 2026 |
 
 ### 🗺️ Maps, Mobility & Spatial Intelligence
@@ -102,11 +102,3 @@
 |:--|:--|:--|
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | A map-augmented agent that conducts reasoning with real-world maps for geolocalization, trained via reinforcement learning. | ACL 2026 Findings |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios. | arXiv 2026 |
-| [DSFNet](https://github.com/AMAP-ML/DSFNet) | Disentangled scenario factorization for multi-scenario route ranking with the first large-scale public MSDR dataset; deployed in AMap for online traffic. | WWW 2025 |
-| [AR-MAP](https://github.com/AMAP-ML/AR-MAP) | Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models? A framework for transferring alignment knowledge from AR-LLMs to Diffusion Models. | ACL 2026 |
-
-### 🔍 Object Detection & Segmentation
-
-| Repository | Description | Venue     |
-|:--|:--|:----------|
-| [UPRE](https://github.com/AMAP-ML/UPRE) | Zero-shot domain adaptation for object detection via unified prompt and representation enhancement. | ICCV 2025 |

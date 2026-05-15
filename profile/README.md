@@ -1,23 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AMAP-ML/.github/main/images/DreamX.png" width="180" alt="DreamX Logo">
-</p>
-
 <h1 align="center">AMAP-ML</h1>
 <h3 align="center">DreamX Team @ <a href="https://amap.com/">Amap</a> (Alibaba)</h3>
+
+<p align="center">
+  <b>Building foundation AI systems for maps, mobility, and interactive worlds.</b>
+  <br/>
+  We advance large language models, reinforcement learning, agent systems, multimodal understanding,
+  generative AI, world models, autonomous driving, and intelligent mobility.
+</p>
 
 <p align="center">
   <a href="https://github.com/AMAP-ML">
     <img src="https://img.shields.io/github/followers/AMAP-ML?label=Follow%20Us&style=social" alt="GitHub Followers">
   </a>
+  <a href="mailto:cxxgtxy@gmail.com">
+    <img src="https://img.shields.io/badge/Join%20Us-Intern%20%2F%20Full--time-blue" alt="Join Us">
+  </a>
 </p>
 
 <p align="center">
-  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), driving cutting-edge research and production AI systems across large language models, reinforcement learning, agent systems, multimodal understanding, generative AI (image/video), world models, autonomous driving, and intelligent mobility. Our work has been published at top-tier venues including <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, EMNLP, and ACM MM</b>.
-</p>
-
-<p align="center">
-  <b>We are hiring!</b> We are always looking for talented interns and full-time researchers.<br/>
-  Please email us at <a href="mailto:cxxgtxy@gmail.com">cxxgtxy@gmail.com</a> if you are interested.
+  Our work appears at top-tier venues including <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, EMNLP, and ACM MM</b>.
+  We are looking for talented interns and full-time researchers.
 </p>
 
 ---
@@ -25,15 +27,17 @@
 ## Highlights
 
 <p align="center">
-  <b>11</b> papers at ICLR 2026 &nbsp;|&nbsp;
-  <b>10</b> papers at CVPR 2026 &nbsp;|&nbsp;
-  <b>7</b> papers at ACL 2026 &nbsp;|&nbsp;
-  <b>5</b> papers at AAAI 2026 &nbsp;|&nbsp;
-  <b>4</b> papers at ICML 2026
-  <br/>
-  <b>5</b> papers at ICCV 2025 &nbsp;|&nbsp;
-  <b>2</b> papers (Oral) at EMNLP 2025 &nbsp;|&nbsp;
+  <b>11</b> ICLR 2026 Papers &nbsp;|&nbsp;
+  <b>10</b> CVPR 2026 Papers &nbsp;|&nbsp;
+  <b>7</b> ACL 2026 Papers &nbsp;|&nbsp;
   <b>30+</b> Open-source Projects
+  <br/>
+  <b>5</b> AAAI 2026 Papers &nbsp;|&nbsp;
+  <b>4</b> ICML 2026 Papers &nbsp;|&nbsp;
+  <b>5</b> ICCV 2025 Papers &nbsp;|&nbsp;
+  <b>2</b> EMNLP 2025 Oral Papers
+  <br/>
+  <b>Focus:</b> LLM Agents &amp; Reasoning · Image/Video Generation · World Models · Multimodal AI · Maps &amp; Mobility
 </p>
 
 ---
@@ -45,6 +49,10 @@
 - **2026.05.11** 💻 We released [![DreamX-World](https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social&label=DreamX-World)](https://github.com/AMAP-ML/DreamX-World) 5B-Cam model and inference code -- A General-Purpose Interactive World Model.
 - **2026.04.22** 💻 We open-sourced [![DCW](https://img.shields.io/github/stars/AMAP-ML/DCW?style=social&label=DCW)](https://github.com/AMAP-ML/DCW) -- Elucidating the SNR-t Bias of Diffusion Probabilistic Models (CVPR 2026).
 - **2026.04.22** 💻 We open-sourced [![EMF](https://img.shields.io/github/stars/AMAP-ML/EMF?style=social&label=EMF)](https://github.com/AMAP-ML/EMF) -- Extending One-Step Image Generation from Class Labels to Text (CVPR 2026).
+
+<details>
+<summary><b>Earlier News</b></summary>
+
 - **2026.04.10** 💻 We open-sourced [![SkillClaw](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social&label=SkillClaw)](https://github.com/AMAP-ML/SkillClaw) -- Let Skills Evolve Collectively with Agentic Evolver.
 - **2026.04.10** 💻 We open-sourced [![DreamX-World](https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social&label=DreamX-World)](https://github.com/AMAP-ML/DreamX-World) -- A General-Purpose Interactive World Model.
 - **2026.04.01** 🎉 [![MACE-Dance](https://img.shields.io/github/stars/AMAP-ML/MACE-Dance?style=social&label=MACE-Dance)](https://github.com/AMAP-ML/MACE-Dance) is accepted by **SIGGRAPH 2026** -- Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation.
@@ -52,9 +60,6 @@
 - **2026.03.20** 💻 We open-sourced [![AutoDrive-R2](https://img.shields.io/github/stars/AMAP-ML/AutoDrive-R2?style=social&label=AutoDrive-R2)](https://github.com/AMAP-ML/AutoDrive-R2) -- Incentivizing Reasoning and Self-Reflection for VLA in Autonomous Driving.
 - **2026.03.18** 💻 We open-sourced [![Video-STAR](https://img.shields.io/github/stars/AMAP-ML/Video-STAR?style=social&label=Video-STAR)](https://github.com/AMAP-ML/Video-STAR) -- Reinforcing Open-Vocabulary Action Recognition with Tools.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
-<details>
-<summary><b>Earlier News</b></summary>
-
 - **2026.03.01** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
 - **2026.02.28** 🎉 [![FASA](https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social&label=FASA)](https://github.com/AMAP-ML/FASA-ICLR2026) is accepted by **ICLR 2026** -- Frequency-Aware Sparse Attention.
 - **2026.02.27** 🎉 [![Eevee](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social&label=Eevee)](https://github.com/AMAP-ML/Eevee) is accepted by **Findings of CVPR 2026** -- Towards Close-up High-resolution Video-based Virtual Try-on.

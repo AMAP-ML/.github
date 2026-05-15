@@ -1,7 +1,9 @@
 <p align="center">
-  <h1 align="center">AMAP-ML</h1>
-  <h3 align="center">DreamX Team @ Amap (Alibaba)</h3>
+  <img src="https://raw.githubusercontent.com/AMAP-ML/.github/main/images/DreamX.png" width="180" alt="DreamX Logo">
 </p>
+
+<h1 align="center">AMAP-ML</h1>
+<h3 align="center">DreamX Team @ <a href="https://amap.com/">Amap</a> (Alibaba)</h3>
 
 <p align="center">
   <a href="https://github.com/AMAP-ML">
@@ -10,11 +12,28 @@
 </p>
 
 <p align="center">
-  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), driving cutting-edge research and production AI systems across large language models, reinforcement learning, agent systems, multimodal understanding, generative AI (image/video), world models, autonomous driving, and intelligent mobility. With <b>6,000+ GitHub stars</b> across <b>30+ open-source research projects</b>, our work has been published at top-tier venues including <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, EMNLP, and ACM MM</b>.
+  We are the DreamX team at <a href="https://amap.com/">Amap</a> (Alibaba), driving cutting-edge research and production AI systems across large language models, reinforcement learning, agent systems, multimodal understanding, generative AI (image/video), world models, autonomous driving, and intelligent mobility. Our work has been published at top-tier venues including <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, EMNLP, and ACM MM</b>.
 </p>
 
 <p align="center">
-  We are always looking for talented interns and full-time researchers with strong coding skills and research experience. Please email us at <a href="mailto:cxxgtxy@gmail.com">cxxgtxy@gmail.com</a> if you are interested.
+  <b>We are hiring!</b> We are always looking for talented interns and full-time researchers.<br/>
+  Please email us at <a href="mailto:cxxgtxy@gmail.com">cxxgtxy@gmail.com</a> if you are interested.
+</p>
+
+---
+
+## Highlights
+
+<p align="center">
+  <b>11</b> papers at ICLR 2026 &nbsp;|&nbsp;
+  <b>10</b> papers at CVPR 2026 &nbsp;|&nbsp;
+  <b>7</b> papers at ACL 2026 &nbsp;|&nbsp;
+  <b>5</b> papers at AAAI 2026 &nbsp;|&nbsp;
+  <b>4</b> papers at ICML 2026
+  <br/>
+  <b>5</b> papers at ICCV 2025 &nbsp;|&nbsp;
+  <b>2</b> papers (Oral) at EMNLP 2025 &nbsp;|&nbsp;
+  <b>30+</b> Open-source Projects
 </p>
 
 ---
@@ -33,6 +52,9 @@
 - **2026.03.20** 💻 We open-sourced [![AutoDrive-R2](https://img.shields.io/github/stars/AMAP-ML/AutoDrive-R2?style=social&label=AutoDrive-R2)](https://github.com/AMAP-ML/AutoDrive-R2) -- Incentivizing Reasoning and Self-Reflection for VLA in Autonomous Driving.
 - **2026.03.18** 💻 We open-sourced [![Video-STAR](https://img.shields.io/github/stars/AMAP-ML/Video-STAR?style=social&label=Video-STAR)](https://github.com/AMAP-ML/Video-STAR) -- Reinforcing Open-Vocabulary Action Recognition with Tools.
 - **2026.03.11** 💻 We open-sourced [![RL3DEdit](https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social&label=RL3DEdit)](https://github.com/AMAP-ML/RL3DEdit) -- Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing.
+<details>
+<summary><b>Earlier News</b></summary>
+
 - **2026.03.01** 🎉 [![FE2E](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social&label=FE2E)](https://github.com/AMAP-ML/FE2E) is accepted by **CVPR 2026** -- Beyond Generation: Advancing Image Editing Priors for Depth and Normal Estimation.
 - **2026.02.28** 🎉 [![FASA](https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social&label=FASA)](https://github.com/AMAP-ML/FASA-ICLR2026) is accepted by **ICLR 2026** -- Frequency-Aware Sparse Attention.
 - **2026.02.27** 🎉 [![Eevee](https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social&label=Eevee)](https://github.com/AMAP-ML/Eevee) is accepted by **Findings of CVPR 2026** -- Towards Close-up High-resolution Video-based Virtual Try-on.
@@ -56,6 +78,8 @@
 - **2025.06.20** 💻 We open-sourced [![FluxText](https://img.shields.io/github/stars/AMAP-ML/FluxText?style=social&label=FluxText)](https://github.com/AMAP-ML/FluxText) -- A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing.
 - **2025.05.21** 💻 We open-sourced [![UniVG-R1](https://img.shields.io/github/stars/AMAP-ML/UniVG-R1?style=social&label=UniVG-R1)](https://github.com/AMAP-ML/UniVG-R1) -- Reasoning Guided Universal Visual Grounding with Reinforcement Learning.
 - **2025.04.07** 💻 We open-sourced [![RealQA](https://img.shields.io/github/stars/AMAP-ML/RealQA?style=social&label=RealQA)](https://github.com/AMAP-ML/RealQA) -- Realistic Image Quality and Aesthetic Scoring with Multimodal LLM.
+
+</details>
 
 ---
 

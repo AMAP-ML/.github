@@ -211,4 +211,4 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 We are actively looking for people who enjoy building strong AI systems: clean code, reproducible experiments, rigorous evaluation, ambitious problem selection, and real-world product impact.
 
-If you are interested in research internships, full-time roles, or academic collaboration, please email [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) with your CV, representative projects, and research interests.
+If you are interested in research internships, full-time roles, or academic collaboration, please email [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) ([homepage](https://cxxgtxy.github.io)) with your CV, representative projects, and research interests.

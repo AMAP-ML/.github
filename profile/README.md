@@ -121,15 +121,15 @@ These projects balance narrative fit with public adoption signals such as GitHub
 - **2026.04.22** [DCW](https://github.com/AMAP-ML/DCW) mitigates SNR-t bias and improves diffusion generation quality across model families (CVPR 2026).
 - **2026.04.22** [EMF](https://github.com/AMAP-ML/EMF) extends efficient one-step generation from class-conditioned synthesis to text-conditioned image generation (CVPR 2026).
 - **2026.04.10** [SkillClaw](https://github.com/AMAP-ML/SkillClaw) turns real interaction traces into reusable, evolving skill libraries.
+- **2026.04.01** [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) decouples motion generation and appearance synthesis for high-quality music-driven dance video (SIGGRAPH 2026).
 - **2026.03.23** [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) evaluates world models in dynamic 4D interactive settings.
+- **2026.03.20** [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) improves VLA models with reasoning and self-reflection for autonomous driving scenarios (ICLR 2026).
+- **2026.03.18** [Video-STAR](https://github.com/AMAP-ML/Video-STAR) uses tool-augmented reinforcement learning for open-vocabulary action recognition in video (ICLR 2026).
 - **2026.03.11** [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) uses geometry-guided reinforcement learning to make 3D scene edits more multi-view consistent (CVPR 2026).
 
 <details>
 <summary><b>Earlier Updates</b></summary>
 
-- **2026.04.01** [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) decouples motion generation and appearance synthesis for high-quality music-driven dance video (SIGGRAPH 2026).
-- **2026.03.20** [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) improves VLA models with reasoning and self-reflection for autonomous driving scenarios (ICLR 2026).
-- **2026.03.18** [Video-STAR](https://github.com/AMAP-ML/Video-STAR) uses tool-augmented reinforcement learning for open-vocabulary action recognition in video (ICLR 2026).
 - **2026.03.01** [FE2E](https://github.com/AMAP-ML/FE2E) transfers image-editing priors into dense depth and normal estimation (CVPR 2026).
 - **2026.02.28** [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) improves sparse decoding with frequency-aware attention (ICLR 2026).
 - **2026.02.27** [Eevee](https://github.com/AMAP-ML/Eevee) provides high-resolution data and evaluation for video-based virtual try-on (CVPR 2026 Findings).

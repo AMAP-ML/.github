@@ -114,6 +114,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 ## Recent Updates
 
+- **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) is accepted by **KDD 2026** -- A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios.
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
 - **2026.05.12** [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) strengthens geolocalization with a reinforced parallel map-augmented reasoning agent (ACL 2026 Findings).
 - **2026.05.11** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) released the 5B-Cam model and inference code for interactive world simulation.
@@ -132,7 +133,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 - **2026.03.01** [FE2E](https://github.com/AMAP-ML/FE2E) transfers image-editing priors into dense depth and normal estimation (CVPR 2026).
 - **2026.02.28** [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) improves sparse decoding with frequency-aware attention (ICLR 2026).
 - **2026.02.27** [Eevee](https://github.com/AMAP-ML/Eevee) provides high-resolution data and evaluation for video-based virtual try-on (CVPR 2026 Findings).
-- **2026.02.06** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) evaluates route-planning agents in real-world mobility scenarios.
+- **2026.02.06** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) evaluates route-planning agents in real-world mobility scenarios (KDD 2026).
 - **2026.02.06** [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) benchmarks spatial intelligence in text-to-image models (ICLR 2026).
 - **2026.02.06** [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) replaces independent chain rollouts with tree-search rollouts for LLM agent reinforcement learning (ICLR 2026).
 - **2026.02.04** [Code2World](https://github.com/AMAP-ML/Code2World) predicts GUI transitions through renderable code generation.
@@ -150,7 +151,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | arXiv 2026 |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | KDD 2026 |
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented geolocalization agent trained with reinforcement learning. | ACL 2026 Findings |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |

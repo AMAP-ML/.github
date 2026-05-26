@@ -118,7 +118,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
 - **2026.05.12** [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) strengthens geolocalization with a reinforced parallel map-augmented reasoning agent (ACL 2026 Findings).
 - **2026.05.11** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases the 5B-Cam model and inference code for general-purpose interactive world simulation.
-- **2026.05.01** **UniMRG** shows that multi-representation generation strengthens understanding in unified multimodal models, not just generation (ICML 2026).
+- **2026.05.01** [UniMRG](https://github.com/Sugewud/UniMRG) shows that multi-representation generation strengthens understanding in unified multimodal models, not just generation (ICML 2026).
 - **2026.05.01** **Train-Free Infinite-Frame Generation** extends pretrained video diffusion to arbitrarily long, temporally consistent videos without any retraining (ICML 2026).
 - **2026.05.01** **D-Evo** improves data efficiency in RL with dual difficulty-aware self-evolution that adaptively reshapes both task and sample difficulty (ICML 2026).
 - **2026.05.01** **EEPO** introduces embedding-perturbed exploration for preference optimization in flow models, addressing exploration collapse in continuous generative policies (ICML 2026).

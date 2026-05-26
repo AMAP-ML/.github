@@ -118,10 +118,10 @@ These projects balance narrative fit with public adoption signals such as GitHub
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
 - **2026.05.12** [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) strengthens geolocalization with a reinforced parallel map-augmented reasoning agent (ACL 2026 Findings).
 - **2026.05.11** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) released the 5B-Cam model and inference code for interactive world simulation.
-- **2026.05.01** 🎉 **Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation** is accepted by **ICML 2026**.
-- **2026.05.01** 🎉 **Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos** is accepted by **ICML 2026**.
-- **2026.05.01** 🎉 **D Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning** is accepted by **ICML 2026**.
-- **2026.05.01** 🎉 **EEPO: Embedding-perturbed Exploration Preference Optimization for Flow Models** is accepted by **ICML 2026**.
+- **2026.05.01** **UniMRG** shows that multi-representation generation strengthens understanding in unified multimodal models, not just generation (ICML 2026).
+- **2026.05.01** **Train-Free Infinite-Frame Generation** extends pretrained video diffusion to arbitrarily long, temporally consistent videos without any retraining (ICML 2026).
+- **2026.05.01** **D-Evo** improves data efficiency in RL with dual difficulty-aware self-evolution that adaptively reshapes both task and sample difficulty (ICML 2026).
+- **2026.05.01** **EEPO** introduces embedding-perturbed exploration for preference optimization in flow models, addressing exploration collapse in continuous generative policies (ICML 2026).
 - **2026.04.22** [DCW](https://github.com/AMAP-ML/DCW) mitigates SNR-t bias and improves diffusion generation quality across model families (CVPR 2026).
 - **2026.04.22** [EMF](https://github.com/AMAP-ML/EMF) extends efficient one-step generation from class-conditioned synthesis to text-conditioned image generation (CVPR 2026).
 - **2026.04.10** [SkillClaw](https://github.com/AMAP-ML/SkillClaw) turns real interaction traces into reusable, evolving skill libraries.

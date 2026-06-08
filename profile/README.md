@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Our work spans production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, ICML, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
+  Our work spans production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ACL, AAAI, SIGGRAPH, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
 </p>
 
 <p align="center">
@@ -36,6 +36,8 @@
   <br/>
   <b>5</b> AAAI 2026 Papers &nbsp;|&nbsp;
   <b>4</b> ICML 2026 Papers &nbsp;|&nbsp;
+  <b>1</b> KDD 2026 Oral Paper
+  <br/>
   <b>5</b> ICCV 2025 Papers &nbsp;|&nbsp;
   <b>2</b> EMNLP 2025 Oral Papers
   <br/>
@@ -78,13 +80,13 @@ These projects balance narrative fit with public adoption signals such as GitHub
 | [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | World model / high-star repo |
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | RL method / high-star repo |
 | [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient baseline for model reasoning. | RL method / framework adoption |
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Spatial intelligence anchor |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Spatial intelligence anchor / KDD 2026 Oral |
 
 ### Spatial Intelligence
 
 | Project | What it represents | Artifact |
 |:--|:--|:--|
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Benchmark |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Benchmark / KDD 2026 Oral |
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented reasoning agent for geolocalization. | Agent / ACL 2026 Findings |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | VLA / ICLR 2026 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | Benchmark / ICLR 2026 |
@@ -114,7 +116,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 ## Recent Updates
 
-- **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026).
+- **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
 - **2026.05.12** [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) strengthens geolocalization with a reinforced parallel map-augmented reasoning agent (ACL 2026 Findings).
 - **2026.05.11** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases the 5B-Cam model and inference code for general-purpose interactive world simulation.
@@ -137,7 +139,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 - **2026.03.01** [FE2E](https://github.com/AMAP-ML/FE2E) transfers image-editing priors into dense depth and normal estimation (CVPR 2026).
 - **2026.02.28** [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) improves sparse decoding with frequency-aware attention (ICLR 2026).
 - **2026.02.27** [Eevee](https://github.com/AMAP-ML/Eevee) provides high-resolution data and evaluation for video-based virtual try-on (CVPR 2026 Findings).
-- **2026.02.06** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) evaluates route-planning agents in real-world mobility scenarios (KDD 2026).
+- **2026.02.06** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) evaluates route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.02.06** [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) benchmarks spatial intelligence in text-to-image models (ICLR 2026).
 - **2026.02.06** [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) replaces independent chain rollouts with tree-search rollouts for LLM agent reinforcement learning (ICLR 2026).
 - **2026.02.04** [Code2World](https://github.com/AMAP-ML/Code2World) predicts GUI transitions through renderable code generation.
@@ -155,7 +157,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | KDD 2026 |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | KDD 2026 Oral |
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented geolocalization agent trained with reinforcement learning. | ACL 2026 Findings |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |

@@ -116,6 +116,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 ## Recent Updates
 
+- **2026.06.15** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its [1.0 technical report](https://arxiv.org/abs/2606.16993) and open-sources DreamX-World-5B for long-horizon interactive world generation with 1-minute video support.
 - **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
 - **2026.05.12** [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) strengthens geolocalization with a reinforced parallel map-augmented reasoning agent (ACL 2026 Findings).

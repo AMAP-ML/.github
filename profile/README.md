@@ -32,7 +32,7 @@
   <b>30+</b> Open-source Projects &nbsp;|&nbsp;
   <b>11</b> ICLR 2026 Papers &nbsp;|&nbsp;
   <b>10</b> CVPR 2026 Papers &nbsp;|&nbsp;
-  <b>7</b> ECCV 2026 Papers
+  <b>5</b> ECCV 2026 Papers
   <br/>
   <b>7</b> ACL 2026 Papers &nbsp;|&nbsp;
   <b>5</b> AAAI 2026 Papers &nbsp;|&nbsp;
@@ -117,7 +117,7 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 ## Recent Updates
 
-- **2026.06.18** AMAP-ML has 7 papers accepted to ECCV 2026, expanding the team's work across spatial intelligence, generative intelligence, and multimodal AI.
+- **2026.06.18** AMAP-ML has 5 papers accepted to ECCV 2026, expanding the team's work across spatial intelligence, generative intelligence, and multimodal AI.
 - **2026.06.15** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its [1.0 technical report](https://arxiv.org/abs/2606.16993) and open-sources DreamX-World-5B for long-horizon interactive world generation with 1-minute video support.
 - **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).

@@ -1,10 +1,10 @@
 <h1 align="center">AMAP-ML</h1>
-<h3 align="center">Foundation AI for Spatial and Generative Intelligence</h3>
+<h3 align="center">DreamX: Foundations for Spatial Intelligence</h3>
 
 <p align="center">
-  <b>Building product-facing foundation AI systems for maps, mobility, generative assets, and interactive worlds.</b>
+  <b>Building AI systems that understand, predict, simulate, create, plan, and act in the real world.</b>
   <br/>
-  AMAP-ML is an AI team at <a href="https://amap.com/">Alibaba AMAP</a>. We connect research, engineering, and real-world deployment across spatial intelligence, generative intelligence, reasoning agents, reinforcement learning, multimodal models, world models, and product-scale AIGC systems.
+  AMAP-ML is an AI team at <a href="https://amap.com/">Alibaba AMAP</a>. We connect research, engineering, and real-world deployment through <b>DreamX</b>, our family of spatial intelligence models and systems for maps, mobility, local services, digital content, and interactive worlds.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:cxxgtxy@gmail.com"><b>Join us</b></a> | Research interns, full-time researchers, and AI engineers in LLM agents, reinforcement learning, world models, multimodal learning, spatial intelligence, and generative AI are welcome to get in touch.
+  <a href="mailto:cxxgtxy@gmail.com"><b>Join us</b></a> | Research interns, full-time researchers, and AI engineers in spatial intelligence, LLM agents, reinforcement learning, world models, multimodal learning, embodied AI, recommendation, and generative AI are welcome to get in touch.
 </p>
 
 ---
@@ -42,82 +42,77 @@
   <b>5</b> ICCV 2025 Papers &nbsp;|&nbsp;
   <b>2</b> EMNLP 2025 Oral Papers
   <br/>
-  <b>Focus:</b> Spatial Intelligence · Generative Intelligence · LLM Agents · World Models · Multimodal AI
+  <b>Focus:</b> Spatial Intelligence · DreamX · LLM Agents · World Models · Multimodal and Generative AI
 </p>
 
 ---
 
 ## What We Build
 
-AMAP-ML builds foundation AI capabilities around two AMAP product anchors:
+### One Mission: Spatial Intelligence
 
-| Product anchor | What it means |
+We define **spatial intelligence** as the ability of AI to understand the real world and its evolution over space and time; predict future states; generate and simulate digital representations; plan toward human goals; and act through products and embodied systems.
+
+For AMAP, this means connecting maps, mobility, urban environments, local services, digital content, and physical action in one learning and deployment loop. Generative intelligence is an essential part of this mission: it enables AI to represent, create, enrich, and simulate the world rather than standing as a separate product anchor.
+
+Our work is organized around three core problems:
+
+| Core problem | Primary DreamX families | What it means |
+|:--|:--|:--|
+| **Understand and Predict the World** | DreamX-Predictor · DreamX-REC | Connect maps, vision, language, mobility, urban scenes, user intent, and product signals to understand spatial context and forecast how the world evolves. |
+| **Generate and Simulate the World** | DreamX-World · DreamX-Creator | Create map-native assets, videos, 3D scenes, digital content, and persistent interactive worlds with controllability, spatial consistency, temporal coherence, and physical plausibility. |
+| **Plan and Act in the World** | DreamX-Agent · DreamX-Phi | Build agents and decision systems that reason, use tools, plan, self-reflect, and turn human goals into actions in digital and physical environments. |
+
+### The DreamX Family
+
+**DreamX** is the unifying brand for our spatial intelligence model and system portfolio. Each family focuses on a distinct relationship between intelligence and the real world:
+
+| Family | Role | Focus |
+|:--|:--|:--|
+| **DreamX-Predictor** | Predict the world | Model the spatiotemporal evolution of traffic, mobility, demand, supply, and urban conditions. |
+| **DreamX-World** | Simulate the world | Learn dynamic world models for persistent, controllable, physically grounded, and interactive simulation. |
+| **DreamX-Agent** | Plan and complete digital tasks | Understand user goals, reason over spatial context, use tools, and coordinate complex map, mobility, and local-service workflows. |
+| **DreamX-Phi** | Act in the physical world | Connect perception, reasoning, decision-making, and physical action for embodied intelligence, autonomous systems, and spatial devices. |
+| **DreamX-REC** | Connect people, places, and services | Match intent with locations, content, routes, and services under spatial, temporal, and contextual constraints. |
+| **DreamX-Creator** | Create and enrich digital assets | Generate and edit map and navigation assets, local-service content, images, videos, 3D assets, and other spatial media. |
+
+The family names define our model and system portfolio; they do not imply that every family already has a public, same-name release. Public repositories and related research artifacts are linked below where available.
+
+### One Shared Foundation
+
+The six DreamX families share a common foundation instead of evolving as isolated product lines:
+
+| Shared capability | Role |
 |:--|:--|
-| Spatial intelligence | AI agents and models that understand, reason, plan, and act in real-world map, mobility, urban, autonomous-driving, and local-service scenarios. |
-| Generative intelligence | AIGC systems that create, edit, evaluate, and control visual assets, videos, 3D scenes, media content, and interactive experiences for map-native and local-service scenarios. |
-
-These product anchors are powered by a shared technical stack:
-
-| Capability | Role |
-|:--|:--|
-| Reasoning agents and reinforcement learning | Train agents and models to reason, use tools, plan, self-reflect, and improve through feedback. |
-| World models and interactive AI | Simulate future states, dynamic transitions, GUI environments, autonomous-driving scenes, and interactive 4D worlds. |
-| Multimodal understanding | Connect vision, language, maps, videos, GUIs, urban scenes, user intent, and product signals. |
-| Generative modeling | Produce and edit visual assets with controllability, quality, spatial consistency, temporal coherence, and product usability. |
-| Benchmarks and evaluation | Turn real AMAP scenarios into reusable public tasks, metrics, datasets, and reproducible evaluation suites. |
+| Spatial data and knowledge | Ground models in maps, routes, places, mobility, urban environments, local services, and real-world feedback. |
+| Multimodal foundation models | Connect language, vision, video, maps, GUIs, sensor observations, user intent, and product signals. |
+| Spatiotemporal and world modeling | Represent geometry, dynamics, long-horizon evolution, causality, interaction, and physical constraints. |
+| Agents, reinforcement learning, and decision-making | Train models to reason, use tools, recommend, plan, self-reflect, and improve through feedback. |
+| Generative modeling | Create and edit controllable, consistent, high-quality spatial assets, media, scenes, and experiences. |
+| Infrastructure and evaluation | Support scalable data, training, inference, deployment, benchmarks, metrics, and reproducible evaluation. |
 
 ---
 
 ## Flagship Releases
 
-These projects balance narrative fit with public adoption signals such as GitHub stars. They are organized around the two product anchors and the core AI systems that support them.
+These selected public projects show how the spatial intelligence mission translates into research artifacts, open-source systems, benchmarks, and models. The complete project map below organizes all public artifacts by the three core problems and the shared foundation.
 
-### High-Signal Releases
+### Selected Releases
 
-| Project | What it represents | Signal |
+| Project | Contribution | Why it matters |
 |:--|:--|:--|
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Agent system / high-star repo |
-| [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Generative AI / high-star repo |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | World model / high-star repo |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | RL method / high-star repo |
-| [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient baseline for model reasoning. | RL method / framework adoption |
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Spatial intelligence anchor / KDD 2026 Oral |
-
-### Spatial Intelligence
-
-| Project | What it represents | Artifact |
-|:--|:--|:--|
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation grounded in real-world mobility scenarios. | Benchmark / KDD 2026 Oral |
-| [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented reasoning agent for geolocalization. | Agent / ACL 2026 Findings |
-| [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | VLA / ICLR 2026 |
-| [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | Benchmark / ICLR 2026 |
-
-### Generative Intelligence
-
-| Project | What it represents | Artifact |
-|:--|:--|:--|
-| [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Generative AI |
-| [FE2E](https://github.com/AMAP-ML/FE2E) | Editing-prior foundation model for dense geometry estimation. | Generative vision / CVPR 2026 |
-| [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | Prompt-guided and spatially controllable visual effects generation. | Generative AI / AAAI 2026 |
-| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | Geometry-guided RL for multi-view consistent 3D scene editing. | 3D editing / CVPR 2026 |
-| [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) | Motion-appearance cascaded generation for music-driven dance video. | Video generation / SIGGRAPH 2026 |
-
-### Core AI Systems
-
-| Project | What it represents | Artifact |
-|:--|:--|:--|
-| [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | World model |
-| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | Interactive world model for controllable world simulation. | World model |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | Method / ICLR 2026 |
-| [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient baseline for model reasoning. | Method / ICLR 2026 |
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution for reusable skill libraries. | Agent system |
-| [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent-data mutual evolution for training LLM agents. | Agent RL / ACL 2026 |
+| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Demonstrates reusable, self-evolving agent capabilities. |
+| [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Connects generative modeling with practical content creation. |
+| [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world modeling through renderable code generation. | Explores executable and interactive world representations. |
+| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | Advances exploration and reasoning in agent training. |
+| [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient for model reasoning. | Provides a simple and reusable reinforcement-learning foundation. |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
 
 ---
 
 ## Recent Updates
 
-- **2026.06.18** AMAP-ML has 5 papers accepted to ECCV 2026, expanding the team's work across spatial intelligence, generative intelligence, and multimodal AI.
+- **2026.06.18** AMAP-ML has 5 papers accepted to ECCV 2026, expanding the team's work across spatial intelligence, generative modeling, and multimodal AI.
 - **2026.06.15** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its [1.0 technical report](https://arxiv.org/abs/2606.16993) and open-sources DreamX-World-5B for long-horizon interactive world generation with 1-minute video support.
 - **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
@@ -156,52 +151,28 @@ These projects balance narrative fit with public adoption signals such as GitHub
 
 ## Project Map
 
-### Spatial Intelligence and Mobility
+The project map organizes public artifacts by the role they play in the spatial intelligence stack. It is a research and open-source view of the portfolio, not a one-to-one list of DreamX products.
+
+### Understand and Predict the World
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | KDD 2026 Oral |
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented geolocalization agent trained with reinforcement learning. | ACL 2026 Findings |
-| [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
-| [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | Vision-language reasoning for urban socio-semantic segmentation. | ICLR 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Multi-scenario route ranking with a public industrial driving-route dataset and AMAP deployment. | WWW 2025 |
 | [IntTravel](https://github.com/AMAP-ML/IntTravel) | Real-world dataset and generative framework for integrated multi-task travel recommendation. | arXiv 2026 |
+| [FE2E](https://github.com/AMAP-ML/FE2E) | Image-editing priors for dense geometry estimation. | CVPR 2026 |
+| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning-guided universal visual grounding with reinforcement learning. | CVPR 2026 |
+| [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | Counterfactual video generation for reducing MLLM video hallucinations. | - |
 
-### Reasoning Agents and Reinforcement Learning
-
-| Repository | Contribution | Venue |
-|:--|:--|:--|
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill library improvement. | - |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | ICLR 2026 |
-| [GPG](https://github.com/AMAP-ML/GPG) | Simple and strong group policy gradient baseline for model reasoning. | ICLR 2026 |
-| [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent-data mutual evolution for training LLM agents. | ACL 2026 |
-| [MathForge](https://github.com/AMAP-ML/MathForge) | Difficulty-aware GRPO and multi-aspect reformulation for math reasoning. | ICLR 2026 |
-| [Video-STAR](https://github.com/AMAP-ML/Video-STAR) | Tool-using reinforcement learning for open-vocabulary action recognition. | ICLR 2026 |
-| [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention for efficient sparse decoding. | ICLR 2026 |
-
-### World Models and Interactive AI
+### Generate and Simulate the World
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
 | [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | General-purpose world model for interactive world simulation. | - |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | - |
-| [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | Benchmark for interactive response capabilities of world models. | arXiv 2026 |
-
-### Multimodal and Vision-Language Models
-
-| Repository | Contribution | Venue |
-|:--|:--|:--|
-| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning-guided universal visual grounding with reinforcement learning. | CVPR 2026 |
-| [RealQA](https://github.com/AMAP-ML/RealQA) | Realistic image quality and aesthetic scoring with multimodal LLMs. | - |
-| [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | Counterfactual video generation for reducing MLLM video hallucinations. | - |
-
-### Generative Intelligence
-
-| Repository | Contribution | Venue |
-|:--|:--|:--|
 | [FluxText](https://github.com/AMAP-ML/FluxText) | Diffusion transformer baseline for scene-text editing. | - |
-| [FE2E](https://github.com/AMAP-ML/FE2E) | Image editing priors for depth and normal estimation. | CVPR 2026 |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | Geometry-guided reinforcement learning for multi-view consistent 3D scene editing. | CVPR 2026 |
 | [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) | Motion-appearance cascaded generation for music-driven dance video. | SIGGRAPH 2026 |
 | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | Prompt-guided and spatially controllable composite visual effects generation. | AAAI 2026 |
@@ -214,6 +185,27 @@ These projects balance narrative fit with public adoption signals such as GitHub
 | [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch) | Adaptive test-time search for video generation. | AAAI 2026 |
 | [Eevee](https://github.com/AMAP-ML/Eevee) | High-resolution benchmark for video-based virtual try-on. | CVPR 2026 Findings |
 | [VMBench](https://github.com/AMAP-ML/VMBench) | Perception-aligned benchmark for video motion generation. | ICCV 2025 |
+
+### Plan and Act in the World
+
+| Repository | Contribution | Venue |
+|:--|:--|:--|
+| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill library improvement. | - |
+| [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
+| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | ICLR 2026 |
+| [GPG](https://github.com/AMAP-ML/GPG) | Simple and strong group policy gradient baseline for model reasoning. | ICLR 2026 |
+| [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent-data mutual evolution for training LLM agents. | ACL 2026 |
+| [MathForge](https://github.com/AMAP-ML/MathForge) | Difficulty-aware GRPO and multi-aspect reformulation for math reasoning. | ICLR 2026 |
+| [Video-STAR](https://github.com/AMAP-ML/Video-STAR) | Tool-using reinforcement learning for open-vocabulary action recognition. | ICLR 2026 |
+
+### Shared Foundations and Evaluation
+
+| Repository | Contribution | Venue |
+|:--|:--|:--|
+| [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |
+| [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | Benchmark for interactive response capabilities of world models. | arXiv 2026 |
+| [RealQA](https://github.com/AMAP-ML/RealQA) | Realistic image quality and aesthetic scoring with multimodal LLMs. | - |
+| [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention for efficient sparse decoding. | ICLR 2026 |
 
 ---
 

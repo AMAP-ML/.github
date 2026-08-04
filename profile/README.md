@@ -1,10 +1,10 @@
-<h1 align="center">AMAP-ML</h1>
-<h3 align="center">DreamX: Foundations for Spatial Intelligence</h3>
+<h1 align="center">DreamX</h1>
+<h3 align="center">AMAP Spatial Intelligence Models and Systems</h3>
 
 <p align="center">
-  <b>Building AI systems that understand, predict, simulate, create, plan, and act in the real world.</b>
+  <b>Understand, predict, simulate, create, plan, and act in the real world.</b>
   <br/>
-  AMAP-ML is an AI team at <a href="https://amap.com/">Alibaba AMAP</a>. We connect research, engineering, and real-world deployment through <b>DreamX</b>, our family of spatial intelligence models and systems for maps, mobility, local services, digital content, and interactive worlds.
+  DreamX is the unified spatial intelligence model and system portfolio of <a href="https://github.com/AMAP-ML">AMAP-ML</a>, the AI team at <a href="https://amap.com/">Alibaba AMAP</a>. We connect research, engineering, and real-world deployment across maps, mobility, local services, digital content, and interactive worlds.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Our work spans production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
+  We advance DreamX through production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ Our work is organized around three core problems:
 
 ### The DreamX Family
 
-**DreamX** is the unifying brand for our spatial intelligence model and system portfolio. Each family focuses on a distinct relationship between intelligence and the real world:
+**DreamX** turns this mission into six model and system families. Each family focuses on a distinct relationship between intelligence and the real world:
 
 | Family | Role | Focus |
 |:--|:--|:--|
@@ -76,11 +76,11 @@ Our work is organized around three core problems:
 | **DreamX-REC** | Connect people, places, and services | Match intent with locations, content, routes, and services under spatial, temporal, and contextual constraints. |
 | **DreamX-Creator** | Create and enrich digital assets | Generate and edit map and navigation assets, local-service content, images, videos, 3D assets, and other spatial media. |
 
-The family names define our model and system portfolio; they do not imply that every family already has a public, same-name release. Public repositories and related research artifacts are linked below where available.
+This table defines the portfolio at the family level. Public same-name releases and related research artifacts are linked below where available.
 
 ### One Shared Foundation
 
-The six DreamX families share a common foundation instead of evolving as isolated product lines:
+The six DreamX families build on a common foundation:
 
 | Shared capability | Role |
 |:--|:--|
@@ -151,7 +151,7 @@ These selected public projects show how the spatial intelligence mission transla
 
 ## Project Map
 
-The project map organizes public artifacts by the role they play in the spatial intelligence stack. It is a research and open-source view of the portfolio, not a one-to-one list of DreamX products.
+The project map complements the family-level view with the research and open-source foundations behind DreamX. Each artifact is organized by the primary role it plays in the spatial intelligence stack.
 
 ### Understand and Predict the World
 
@@ -211,6 +211,6 @@ The project map organizes public artifacts by the role they play in the spatial 
 
 ## For Collaborators and Applicants
 
-We are actively looking for people who enjoy building strong AI systems: clean code, reproducible experiments, rigorous evaluation, ambitious problem selection, and real-world product impact.
+We are looking for people who want to build the next generation of spatial intelligence systems through clean code, reproducible experiments, rigorous evaluation, ambitious problem selection, and real-world product impact.
 
 If you are interested in research internships, full-time roles, or academic collaboration, please email [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) ([homepage](https://cxxgtxy.github.io)) with your CV, representative projects, and research interests.

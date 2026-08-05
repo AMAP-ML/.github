@@ -101,7 +101,7 @@ These selected public projects show how the spatial intelligence mission transla
 
 | Project | Contribution | Why it matters |
 |:--|:--|:--|
-| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | DreamX-World 1.0, a general-purpose interactive world model for controllable, long-horizon world simulation. | Anchors the DreamX family with an open-source model, technical report, and live interactive system. |
+| [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | A general-purpose interactive world model for controllable, long-horizon world simulation. | Anchors the DreamX family with an open-source model, technical report, and live interactive system. |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Demonstrates reusable, self-evolving agent capabilities. |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Connects generative modeling with practical content creation. |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
@@ -170,7 +170,7 @@ The project map complements the family-level view with the research and open-sou
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
-| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | General-purpose world model for interactive world simulation. | - |
+| [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | General-purpose world model for interactive world simulation. | - |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | - |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | Diffusion transformer baseline for scene-text editing. | - |
 | [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | Geometry-guided reinforcement learning for multi-view consistent 3D scene editing. | CVPR 2026 |

@@ -101,12 +101,12 @@ These selected public projects show how the spatial intelligence mission transla
 
 | Project | Contribution | Why it matters |
 |:--|:--|:--|
+| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | DreamX-World 1.0, a general-purpose interactive world model for controllable, long-horizon world simulation. | Anchors the DreamX family with an open-source model, technical report, and live interactive system. |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Demonstrates reusable, self-evolving agent capabilities. |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Connects generative modeling with practical content creation. |
-| [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world modeling through renderable code generation. | Explores executable and interactive world representations. |
+| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | Advances exploration and reasoning in agent training. |
 | [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient for model reasoning. | Provides a simple and reusable reinforcement-learning foundation. |
-| [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
 
 ---
 

@@ -4,7 +4,7 @@
 <p align="center">
   <b>Understand, predict, simulate, create, plan, and act in the real world.</b>
   <br/>
-  DreamX is the unified spatial intelligence model and system portfolio of <a href="https://github.com/AMAP-ML">AMAP-ML</a>, the AI team at <a href="https://amap.com/">Alibaba AMAP</a>. We connect research, engineering, and real-world deployment across maps, mobility, local services, digital content, and interactive worlds.
+  DreamX is the unified spatial intelligence model and system portfolio of <a href="https://amap.com/">Alibaba AMAP</a>. Built by the <b>DreamX team</b> and released through <a href="https://github.com/AMAP-ML">AMAP-ML</a>, it connects research, engineering, and real-world deployment across maps, mobility, local services, digital content, and interactive worlds.
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
     <img src="https://img.shields.io/github/followers/AMAP-ML?label=Follow%20AMAP-ML&style=social" alt="GitHub followers">
   </a>
   <a href="mailto:cxxgtxy@gmail.com">
-    <img src="https://img.shields.io/badge/Join%20Us-Intern%20%2F%20Full--time-blue" alt="Join Us">
+    <img src="https://img.shields.io/badge/Join%20DreamX-Intern%20%2F%20Full--time-blue" alt="Join DreamX">
   </a>
 </p>
 
 <p align="center">
-  We advance DreamX through production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
+  The DreamX team advances this portfolio through production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, IJCV, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
 </p>
 
 <p align="center">
-  <a href="mailto:cxxgtxy@gmail.com"><b>Join us</b></a> | Research interns, full-time researchers, and AI engineers in spatial intelligence, LLM agents, reinforcement learning, world models, multimodal learning, embodied AI, recommendation, and generative AI are welcome to get in touch.
+  <a href="mailto:cxxgtxy@gmail.com"><b>Join DreamX</b></a> | Research interns, full-time researchers, and AI engineers in spatial intelligence, LLM agents, reinforcement learning, world models, multimodal learning, embodied AI, recommendation, and generative AI are welcome to get in touch.
 </p>
 
 ---
@@ -29,15 +29,20 @@
 ## Highlights
 
 <p align="center">
-  <b>30+</b> Open-source Projects &nbsp;|&nbsp;
+  <b>40+</b> Open-source Projects &nbsp;|&nbsp;
   <b>11</b> ICLR 2026 Papers &nbsp;|&nbsp;
   <b>10</b> CVPR 2026 Papers &nbsp;|&nbsp;
-  <b>5</b> ECCV 2026 Papers
+  <b>5</b> ECCV 2026 Papers (<b>1 Oral</b>)
   <br/>
   <b>7</b> ACL 2026 Papers &nbsp;|&nbsp;
   <b>5</b> AAAI 2026 Papers &nbsp;|&nbsp;
   <b>4</b> ICML 2026 Papers &nbsp;|&nbsp;
   <b>1</b> KDD 2026 Oral Paper
+  <br/>
+  <b>2</b> ACM MM 2026 Papers &nbsp;|&nbsp;
+  <b>1</b> SIGGRAPH 2026 Paper &nbsp;|&nbsp;
+  <b>1</b> SIGGRAPH Asia 2026 Paper &nbsp;|&nbsp;
+  <b>1</b> IJCV Paper
   <br/>
   <b>5</b> ICCV 2025 Papers &nbsp;|&nbsp;
   <b>2</b> EMNLP 2025 Oral Papers
@@ -112,7 +117,9 @@ These selected public projects show how the spatial intelligence mission transla
 
 ## Recent Updates
 
-- **2026.06.18** AMAP-ML has 5 papers accepted to ECCV 2026, expanding the team's work across spatial intelligence, generative modeling, and multimodal AI.
+- **2026.07.20** [OmniDance](https://arxiv.org/abs/2606.30019) is selected for an Oral presentation at ECCV 2026, advancing large-scale multimodal dance video generation from text, image, and music.
+- **2026.07.20** The DreamX team adds four publications across [SCALAR++](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=jn21pUsAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jn21pUsAAAAJ:feST4K8J0scC) (IJCV), [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) (SIGGRAPH Asia 2026), and [MAR-GRPO](https://arxiv.org/abs/2604.06966) and [Peak-End-Net](https://arxiv.org/abs/2607.13941) (ACM MM 2026).
+- **2026.06.18** The DreamX team has 5 papers accepted to ECCV 2026, expanding its work across spatial intelligence, generative modeling, and multimodal AI.
 - **2026.06.15** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its [1.0 technical report](https://arxiv.org/abs/2606.16993) and open-sources DreamX-World-5B for long-horizon interactive world generation with 1-minute video support.
 - **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
 - **2026.05.12** [CoEvolve](https://github.com/AMAP-ML/CoEvolve) trains LLM agents through agent-data mutual evolution, using failure signals to synthesize harder tasks as the agent improves (ACL 2026).
@@ -129,7 +136,7 @@ These selected public projects show how the spatial intelligence mission transla
 - **2026.03.23** [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) evaluates world models in dynamic 4D interactive settings.
 - **2026.03.20** [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) improves VLA models with reasoning and self-reflection for autonomous driving scenarios (ICLR 2026).
 - **2026.03.18** [Video-STAR](https://github.com/AMAP-ML/Video-STAR) uses tool-augmented reinforcement learning for open-vocabulary action recognition in video (ICLR 2026).
-- **2026.03.11** [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) uses geometry-guided reinforcement learning to make 3D scene edits more multi-view consistent (CVPR 2026).
+- **2026.03.11** [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) uses geometry-guided reinforcement learning to make 3D scene edits more multi-view consistent (ECCV 2026).
 
 <details>
 <summary><b>Earlier Updates</b></summary>
@@ -173,7 +180,10 @@ The project map complements the family-level view with the research and open-sou
 | [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | General-purpose world model for interactive world simulation. | - |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | - |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | Diffusion transformer baseline for scene-text editing. | - |
-| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | Geometry-guided reinforcement learning for multi-view consistent 3D scene editing. | CVPR 2026 |
+| [OmniDance](https://github.com/AMAP-ML/OmniDance) | Multimodal dance video generation from text, image, and music at Internet-data scale. | ECCV 2026 Oral |
+| [SCALAR / SCALAR++](https://github.com/zengjianhao/SCALAR) | Efficient controllable generation through scale-wise visual autoregressive learning. | AAAI 2026 / IJCV |
+| [MAR-GRPO](https://github.com/AMAP-ML/mar-grpo) | Stabilized reinforcement learning for autoregressive-diffusion image generation. | ACM MM 2026 |
+| [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) | Geometry-guided reinforcement learning for multi-view consistent 3D scene editing. | ECCV 2026 |
 | [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) | Motion-appearance cascaded generation for music-driven dance video. | SIGGRAPH 2026 |
 | [Omni-Effects](https://github.com/AMAP-ML/Omni-Effects) | Prompt-guided and spatially controllable composite visual effects generation. | AAAI 2026 |
 | [S2-Guidance](https://github.com/AMAP-ML/S2-Guidance) | Training-free stochastic self-guidance for diffusion models. | ICLR 2026 |
@@ -205,12 +215,14 @@ The project map complements the family-level view with the research and open-sou
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |
 | [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | Benchmark for interactive response capabilities of world models. | arXiv 2026 |
 | [RealQA](https://github.com/AMAP-ML/RealQA) | Realistic image quality and aesthetic scoring with multimodal LLMs. | - |
+| [Peak-End-Net](https://github.com/AMAP-ML/Peak-End-Net) | Peak-end-rule-inspired framework for generalizable video aesthetic assessment. | ACM MM 2026 |
+| [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) | Reliable, fine-grained reward modeling for consistent multi-reference image editing. | SIGGRAPH Asia 2026 |
 | [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention for efficient sparse decoding. | ICLR 2026 |
 
 ---
 
 ## For Collaborators and Applicants
 
-We are looking for people who want to build the next generation of spatial intelligence systems through clean code, reproducible experiments, rigorous evaluation, ambitious problem selection, and real-world product impact.
+The DreamX team is looking for people who want to build the next generation of spatial intelligence systems through clean code, reproducible experiments, rigorous evaluation, ambitious problem selection, and real-world product impact.
 
 If you are interested in research internships, full-time roles, or academic collaboration, please email [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com) ([homepage](https://cxxgtxy.github.io)) with your CV, representative projects, and research interests.

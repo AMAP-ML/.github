@@ -107,18 +107,19 @@ These selected public projects show how the spatial intelligence mission transla
 | Project | Contribution | Why it matters |
 |:--|:--|:--|
 | [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | A general-purpose interactive world model for controllable, long-horizon world simulation. | Anchors the DreamX family with an open-source model, technical report, and live interactive system. |
+| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | A long-horizon computer-use harness with durable task state, fresh-context execution, and independent verification. | Turns agent reasoning into reliable progress on complex, real-world workflows across desktop apps and the CLI. |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Demonstrates reusable, self-evolving agent capabilities. |
-| [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Connects generative modeling with practical content creation. |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | Advances exploration and reasoning in agent training. |
+| [FluxText](https://github.com/AMAP-ML/FluxText) | Scene-text editing for controllable visual asset generation. | Connects generative modeling with practical content creation. |
 | [GPG](https://github.com/AMAP-ML/GPG) | Minimalist group policy gradient for model reasoning. | Provides a simple and reusable reinforcement-learning foundation. |
 
 ---
 
 ## Recent Updates
 
+- **2026.08.03** [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage-Execute-Audit loop with durable verified state for long-horizon computer-use agents, improving task completion across WeaveBench, OSWorld 2.0, and Terminal-Bench 2.1 ([paper](https://arxiv.org/abs/2608.01964)).
 - **2026.07.20** [OmniDance](https://arxiv.org/abs/2606.30019) is selected for an Oral presentation at ECCV 2026, advancing large-scale multimodal dance video generation from text, image, and music.
-- **2026.07.20** The DreamX team adds four publications across [SCALAR++](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=jn21pUsAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jn21pUsAAAAJ:feST4K8J0scC) (IJCV), [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) (SIGGRAPH Asia 2026), and [MAR-GRPO](https://arxiv.org/abs/2604.06966) and [Peak-End-Net](https://arxiv.org/abs/2607.13941) (ACM MM 2026).
+- **2026.07.20** The DreamX team adds four publications across SCALAR++ (IJCV), [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) (SIGGRAPH Asia 2026), and [MAR-GRPO](https://arxiv.org/abs/2604.06966) and [Peak-End-Net](https://arxiv.org/abs/2607.13941) (ACM MM 2026).
 - **2026.06.18** The DreamX team has 5 papers accepted to ECCV 2026, expanding its work across spatial intelligence, generative modeling, and multimodal AI.
 - **2026.06.15** [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its [1.0 technical report](https://arxiv.org/abs/2606.16993) and open-sources DreamX-World-5B for long-horizon interactive world generation with 1-minute video support.
 - **2026.05.18** [MobilityBench](https://github.com/AMAP-ML/MobilityBench) provides a scalable benchmark for evaluating route-planning agents in real-world mobility scenarios (KDD 2026 Oral).
@@ -200,6 +201,7 @@ The project map complements the family-level view with the research and open-sou
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
+| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage-Execute-Audit loops. | arXiv 2026 |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill library improvement. | - |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | ICLR 2026 |

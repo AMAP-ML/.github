@@ -107,6 +107,7 @@ These selected public projects show how the spatial intelligence mission transla
 | Project | Contribution | Why it matters |
 |:--|:--|:--|
 | [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | A general-purpose interactive world model for controllable, long-horizon world simulation. | Anchors the DreamX family with an open-source model, technical report, and live interactive system. |
+| [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) | A geometry-aware, action-conditioned video world model for robotic manipulation. | Establishes the DreamX-Phi family by connecting prescribed robot actions with their predicted physical consequences. |
 | [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | A long-horizon computer-use harness with durable task state, fresh-context execution, and independent verification. | Turns agent reasoning into reliable progress on complex, real-world workflows across desktop apps and the CLI. |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic skill evolution from real interaction traces. | Demonstrates reusable, self-evolving agent capabilities. |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | Route-planning agent evaluation in real-world mobility scenarios. | Grounds spatial reasoning in an AMAP-native benchmark. |
@@ -117,6 +118,7 @@ These selected public projects show how the spatial intelligence mission transla
 
 ## Recent Updates
 
+- **2026.08.13** [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) introduces a geometry-aware, action-conditioned video world model for robotic manipulation, ranking first on WorldArena 2.0 Track 1 and tying for second on Track 2 in the August 12 leaderboard snapshot ([paper](https://arxiv.org/abs/2608.13489)).
 - **2026.08.03** [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage-Execute-Audit loop with durable verified state for long-horizon computer-use agents, improving task completion across WeaveBench, OSWorld 2.0, and Terminal-Bench 2.1 ([paper](https://arxiv.org/abs/2608.01964)).
 - **2026.07.20** [OmniDance](https://arxiv.org/abs/2606.30019) is selected for an Oral presentation at ECCV 2026, advancing large-scale multimodal dance video generation from text, image, and music.
 - **2026.07.20** The DreamX team adds four publications across SCALAR++ (IJCV), [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) (SIGGRAPH Asia 2026), and [MAR-GRPO](https://arxiv.org/abs/2604.06966) and [Peak-End-Net](https://arxiv.org/abs/2607.13941) (ACM MM 2026).
@@ -201,6 +203,7 @@ The project map complements the family-level view with the research and open-sou
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
+| [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) | Geometry-aware, action-conditioned video world modeling for bimanual robotic manipulation. | arXiv 2026 |
 | [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage-Execute-Audit loops. | arXiv 2026 |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill library improvement. | - |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |

@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  The DreamX team advances this portfolio through production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, IJCV, ICCV, ICML, KDD, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
+  The DreamX team advances this portfolio through production systems, open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, SIGGRAPH Asia, IJCV, ICCV, ICML, KDD, CIKM, EMNLP, ACM MM, and WWW</b>. We release code and evaluation assets to help the community reproduce, compare, and extend our work.
 </p>
 
 <p align="center">
@@ -39,7 +39,10 @@
   <b>4</b> ICML 2026 Papers &nbsp;|&nbsp;
   <b>1</b> KDD 2026 Oral Paper
   <br/>
+  <b>3</b> EMNLP 2026 Papers &nbsp;|&nbsp;
   <b>2</b> ACM MM 2026 Papers &nbsp;|&nbsp;
+  <b>2</b> CIKM 2026 Papers
+  <br/>
   <b>1</b> SIGGRAPH 2026 Paper &nbsp;|&nbsp;
   <b>1</b> SIGGRAPH Asia 2026 Paper &nbsp;|&nbsp;
   <b>1</b> IJCV Paper
@@ -118,6 +121,7 @@ These selected public projects show how the spatial intelligence mission transla
 
 ## Recent Updates
 
+- **2026.08.21** The DreamX team has 3 papers accepted to EMNLP 2026, advancing multimodal continual learning, self-evolving agents, and language-model reasoning.
 - **2026.08.13** [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) introduces a geometry-aware, action-conditioned video world model for robotic manipulation, ranking first on WorldArena 2.0 Track 1 and tying for second on Track 2 in the August 12 leaderboard snapshot ([paper](https://arxiv.org/abs/2608.13489)).
 - **2026.08.03** [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage-Execute-Audit loop with durable verified state for long-horizon computer-use agents, improving task completion across WeaveBench, OSWorld 2.0, and Terminal-Bench 2.1 ([paper](https://arxiv.org/abs/2608.01964)).
 - **2026.07.20** [OmniDance](https://arxiv.org/abs/2606.30019) is selected for an Oral presentation at ECCV 2026, advancing large-scale multimodal dance video generation from text, image, and music.
@@ -171,9 +175,11 @@ The project map complements the family-level view with the research and open-sou
 | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) | Map-augmented geolocalization agent trained with reinforcement learning. | ACL 2026 Findings |
 | [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) | Vision-language reasoning for urban socio-semantic segmentation. | ICLR 2026 |
 | [DSFNet](https://github.com/AMAP-ML/DSFNet) | Multi-scenario route ranking with a public industrial driving-route dataset and AMAP deployment. | WWW 2025 |
+| [GenMRP](https://arxiv.org/abs/2602.04174) | Generative multi-route planning for efficient, personalized, real-time industrial navigation. | CIKM 2026 |
+| [IntSR](https://arxiv.org/abs/2509.21179) | Integrated generative modeling for search and recommendation across AMAP scenarios. | CIKM 2026 |
 | [IntTravel](https://github.com/AMAP-ML/IntTravel) | Real-world dataset and generative framework for integrated multi-task travel recommendation. | arXiv 2026 |
 | [FE2E](https://github.com/AMAP-ML/FE2E) | Image-editing priors for dense geometry estimation. | CVPR 2026 |
-| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning-guided universal visual grounding with reinforcement learning. | CVPR 2026 |
+| [UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | Reasoning-guided universal visual grounding with reinforcement learning. | arXiv 2025 |
 | [Taming-Hallucinations](https://github.com/AMAP-ML/Taming-Hallucinations) | Counterfactual video generation for reducing MLLM video hallucinations. | - |
 
 ### Generate and Simulate the World
@@ -210,6 +216,7 @@ The project map complements the family-level view with the research and open-sou
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM agent reinforcement learning. | ICLR 2026 |
 | [GPG](https://github.com/AMAP-ML/GPG) | Simple and strong group policy gradient baseline for model reasoning. | ICLR 2026 |
 | [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent-data mutual evolution for training LLM agents. | ACL 2026 |
+| [Role-Agent](https://github.com/AMAP-ML/roleagent) | Dual-role evolution that trains an LLM as both an agent and an environment model. | EMNLP 2026 |
 | [MathForge](https://github.com/AMAP-ML/MathForge) | Difficulty-aware GRPO and multi-aspect reformulation for math reasoning. | ICLR 2026 |
 | [Video-STAR](https://github.com/AMAP-ML/Video-STAR) | Tool-using reinforcement learning for open-vocabulary action recognition. | ICLR 2026 |
 
@@ -220,6 +227,7 @@ The project map complements the family-level view with the research and open-sou
 | [SpatialGenEval](https://github.com/AMAP-ML/SpatialGenEval) | Spatial intelligence evaluation for text-to-image models. | ICLR 2026 |
 | [Omni-WorldBench](https://github.com/AMAP-ML/Omni-WorldBench) | Benchmark for interactive response capabilities of world models. | arXiv 2026 |
 | [RealQA](https://github.com/AMAP-ML/RealQA) | Realistic image quality and aesthetic scoring with multimodal LLMs. | - |
+| [M2Note](https://arxiv.org/abs/2607.00685) | Training-free continual evolution for vision-language models through an editable mistake notebook. | EMNLP 2026 |
 | [Peak-End-Net](https://github.com/AMAP-ML/Peak-End-Net) | Peak-end-rule-inspired framework for generalizable video aesthetic assessment. | ACM MM 2026 |
 | [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) | Reliable, fine-grained reward modeling for consistent multi-reference image editing. | SIGGRAPH Asia 2026 |
 | [FASA](https://github.com/AMAP-ML/FASA-ICLR2026) | Frequency-aware sparse attention for efficient sparse decoding. | ICLR 2026 |

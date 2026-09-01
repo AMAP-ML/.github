@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images/banner.png" alt="DreamX — AMAP Spatial Intelligence" width="520" />
-</p>
-
 <h1 align="center">DreamX</h1>
 <p align="center"><b>AMAP Spatial Intelligence Models & Systems</b></p>
 

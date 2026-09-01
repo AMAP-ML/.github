@@ -61,9 +61,9 @@ For AMAP, this closes a learning-and-deployment loop across maps, routes, places
 
 | Direction | DreamX families | Representative work |
 |:--|:--|:--|
-| **Understand and predict the world** | DreamX-Predictor · DreamX-REC | [MobilityBench](https://github.com/AMAP-ML/MobilityBench), [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map), [DSFNet](https://github.com/AMAP-ML/DSFNet) |
-| **Generate and simulate the world** | DreamX-World · DreamX-Creator | [DreamX-World](https://github.com/AMAP-ML/DreamX-World), [OmniDance](https://github.com/AMAP-ML/OmniDance), [RL3DEdit](https://github.com/AMAP-ML/RL3DEdit) |
-| **Plan and act in the world** | DreamX-Agent · DreamX-Phi | [DreamX-Phi](https://github.com/AMAP-ML/DreamX-Phi), [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness), [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) |
+| **Understand and predict the world** | DreamX-Predictor · DreamX-REC | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map), [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner), [MobilityBench](https://github.com/AMAP-ML/MobilityBench) |
+| **Generate and simulate the world** | DreamX-World · DreamX-Creator | [FluxText](https://github.com/AMAP-ML/FluxText), [DreamX-World](https://github.com/AMAP-ML/DreamX-World), [Code2World](https://github.com/AMAP-ML/Code2World) |
+| **Plan and act in the world** | DreamX-Agent · DreamX-Phi | [SkillClaw](https://github.com/AMAP-ML/SkillClaw), [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness), [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) |
 
 ### One foundation, six families
 

@@ -70,7 +70,7 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 |:--|:--|
 | **DreamX-Predictor** | Models the evolution of traffic, mobility, demand, supply, and urban conditions. |
 | **DreamX-World** | Learns controllable, persistent, physically grounded, interactive world models. |
-| **DreamX-Agent** | Reasons over spatial context, uses tools, and completes map, mobility, and local-service workflows. |
+| **DreamX-Agent** | Uses tools, maintains long-horizon task state, and completes computer-use, map, mobility, and local-service workflows. |
 | **DreamX-Phi** | Connects perception, reasoning, decision-making, and physical action. |
 | **DreamX-REC** | Matches intent with places, content, routes, and services under real-world constraints. |
 | **DreamX-Creator** | Generates and edits map assets, local-service content, images, videos, 3D scenes, and spatial media. |
@@ -149,18 +149,25 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 <details>
 <summary><b>Plan and act in the world</b></summary>
 
+#### DreamX-Agent
+
+| Repository | Contribution | Venue |
+|:--|:--|:--|
+| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage–Execute–Audit loops. | arXiv 2026 |
+| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill-library improvement. | — |
+| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM-agent reinforcement learning. | ICLR 2026 |
+| [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent–data mutual evolution for training LLM agents. | ACL 2026 |
+| [Role-Agent](https://github.com/AMAP-ML/roleagent) | Dual-role evolution that trains an LLM as both an agent and an environment model. | EMNLP 2026 |
+| [Video-STAR](https://github.com/AMAP-ML/Video-STAR) | Tool-using RL for open-vocabulary action recognition. | ICLR 2026 |
+| [GPG](https://github.com/AMAP-ML/GPG) | Simple and strong group policy-gradient baseline for model reasoning. | ICLR 2026 |
+| [MathForge](https://github.com/AMAP-ML/MathForge) | Difficulty-aware GRPO and multi-aspect reformulation for math reasoning. | ICLR 2026 |
+
+#### DreamX-Phi
+
 | Repository | Contribution | Venue |
 |:--|:--|:--|
 | [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) | Geometry-aware, action-conditioned video world modeling for bimanual robotic manipulation. | arXiv 2026 |
-| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage–Execute–Audit loops. | arXiv 2026 |
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill-library improvement. | — |
 | [AutoDrive-R2](https://github.com/AMAP-ML/AutoDrive-R2) | Reasoning and self-reflection for VLA models in autonomous driving. | ICLR 2026 |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM-agent reinforcement learning. | ICLR 2026 |
-| [GPG](https://github.com/AMAP-ML/GPG) | Simple and strong group policy-gradient baseline for model reasoning. | ICLR 2026 |
-| [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent–data mutual evolution for training LLM agents. | ACL 2026 |
-| [Role-Agent](https://github.com/AMAP-ML/roleagent) | Dual-role evolution that trains an LLM as both an agent and an environment model. | EMNLP 2026 |
-| [MathForge](https://github.com/AMAP-ML/MathForge) | Difficulty-aware GRPO and multi-aspect reformulation for math reasoning. | ICLR 2026 |
-| [Video-STAR](https://github.com/AMAP-ML/Video-STAR) | Tool-using RL for open-vocabulary action recognition. | ICLR 2026 |
 </details>
 
 <details>

@@ -12,7 +12,7 @@
 <p align="center">
   DreamX is the spatial intelligence portfolio of <a href="https://amap.com/">Alibaba AMAP</a>, built and released by the <b>DreamX team</b> through <a href="https://github.com/AMAP-ML">AMAP-ML</a>.<br/>
   We connect research, production systems, and real-world deployment across maps, mobility, local services, digital content, and interactive worlds.<br/>
-  The team releases open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, SIGGRAPH Asia, IJCV, ICCV, ICML, KDD, CIKM, EMNLP, ACM MM,</b> and <b>WWW</b>.
+  The team releases open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, SIGGRAPH Asia, IJCV, IEEE TMM, ICCV, ICML, KDD, CIKM, EMNLP, ACM MM,</b> and <b>WWW</b>.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## At a glance
 
-<p align="center"><b>40+</b> open-source projects &nbsp;·&nbsp; <b>52</b> papers at major venues in 2026 &nbsp;·&nbsp; <b>3</b> core problems &nbsp;·&nbsp; <b>6</b> DreamX model and system families</p>
+<p align="center"><b>40+</b> open-source projects &nbsp;·&nbsp; <b>53</b> papers at major venues in 2026 &nbsp;·&nbsp; <b>3</b> core problems &nbsp;·&nbsp; <b>6</b> DreamX model and system families</p>
 
 | Understand & Predict | Generate & Simulate | Plan & Act |
 |:--|:--|:--|
@@ -36,12 +36,13 @@
 
 | Project | What it brings to spatial intelligence | Links |
 |:--|:--|:--|
+| **DreamX-Creator 1.0** | Native joint audio-video generation with an open 7B model and an autoregressive one-step 2K refiner. | [Code](https://github.com/AMAP-ML/DreamX-Creator) · [Report](https://arxiv.org/abs/2608.31106) · [Models](https://huggingface.co/GD-ML/DreamX-Creator) |
 | **DreamX-World 1.0** | Interactive, long-horizon world simulation with an open 5B model. | [Code](https://github.com/AMAP-ML/DreamX-World) · [Report](https://arxiv.org/abs/2606.16993) |
 | **DreamX-Phi 1.0** | Geometry-aware, action-conditioned video world modeling for robotic manipulation. | [Code](https://github.com/AMAP-ML/DreamX-Phi) · [Paper](https://arxiv.org/abs/2608.13489) |
 | **LongHorizon-Harness** | Durable task state and independent verification for reliable computer-use agents. | [Code](https://github.com/AMAP-ML/LongHorizon-Harness) · [Paper](https://arxiv.org/abs/2608.01964) |
 | **MobilityBench** | Real-world benchmark for route-planning agents in AMAP-native mobility scenarios. | [Code](https://github.com/AMAP-ML/MobilityBench) |
 | **SkillClaw** | Evolves reusable agent skills from real interaction traces. | [Code](https://github.com/AMAP-ML/SkillClaw) |
-| **FluxText** | Controllable scene-text editing for practical visual-asset creation. | [Code](https://github.com/AMAP-ML/FluxText) |
+| **FluxText** | Controllable scene-text editing for practical visual-asset creation, accepted by IEEE TMM. | [Code](https://github.com/AMAP-ML/FluxText) · [Paper](https://arxiv.org/abs/2505.03329) |
 
 <p align="right"><a href="#project-map">Browse the complete project map →</a></p>
 
@@ -78,6 +79,8 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 
 ## Recent updates
 
+- **2026.09.08** — [FluxText](https://github.com/AMAP-ML/FluxText) is accepted by IEEE Transactions on Multimedia (TMM), recognizing its lightweight diffusion-transformer approach to multilingual scene-text editing. [Paper](https://arxiv.org/abs/2505.03329)
+- **2026.09.03** — [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator) open-sources model weights and inference code for a 7B native joint audio-video generator and an autoregressive one-step 2K refiner, enabling synchronized generation of video, speech, sound effects, and ambience. [Report](https://arxiv.org/abs/2608.31106) · [Models](https://huggingface.co/GD-ML/DreamX-Creator)
 - **2026.08.21** — The DreamX team has 3 papers accepted to EMNLP 2026, advancing multimodal continual learning, self-evolving agents, and language-model reasoning.
 - **2026.08.13** — [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) launches a geometry-aware, action-conditioned video world model for robotic manipulation, leading WorldArena 2.0 Track 1 in the August 12 leaderboard snapshot. [Paper](https://arxiv.org/abs/2608.13489)
 - **2026.08.03** — [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage–Execute–Audit loop for durable, verified computer-use progress. [Paper](https://arxiv.org/abs/2608.01964)
@@ -123,9 +126,10 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
+| [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator) | Open native joint audio-video generation and autoregressive one-step 2K refinement. | arXiv 2026 |
 | [DreamX-World 1.0](https://github.com/AMAP-ML/DreamX-World) | General-purpose world model for interactive world simulation. | — |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | GUI world model via renderable code generation. | — |
-| [FluxText](https://github.com/AMAP-ML/FluxText) | Diffusion transformer baseline for scene-text editing. | — |
+| [FluxText](https://github.com/AMAP-ML/FluxText) | Diffusion transformer baseline for scene-text editing. | IEEE TMM 2026 |
 | [OmniDance](https://github.com/AMAP-ML/OmniDance) | Multimodal dance-video generation from text, image, and music. | ECCV 2026 Oral |
 | [SCALAR / SCALAR++](https://github.com/zengjianhao/SCALAR) | Efficient controllable generation through scale-wise visual autoregressive learning. | AAAI 2026 / IJCV |
 | [MAR-GRPO](https://github.com/AMAP-ML/mar-grpo) | Stabilized RL for autoregressive-diffusion image generation. | ACM MM 2026 |

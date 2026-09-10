@@ -39,9 +39,9 @@
 | **DreamX-Creator 1.0** | Native joint audio-video generation with an open 7B model and an autoregressive one-step 2K refiner. | [Code](https://github.com/AMAP-ML/DreamX-Creator) · [Report](https://arxiv.org/abs/2608.31106) · [Models](https://huggingface.co/GD-ML/DreamX-Creator) |
 | **DreamX-World 1.0** | Interactive, long-horizon world simulation with an open 5B model. | [Code](https://github.com/AMAP-ML/DreamX-World) · [Report](https://arxiv.org/abs/2606.16993) |
 | **DreamX-Phi 1.0** | Geometry-aware, action-conditioned video world modeling for robotic manipulation. | [Code](https://github.com/AMAP-ML/DreamX-Phi) · [Paper](https://arxiv.org/abs/2608.13489) |
-| **LongHorizon-Harness** | Durable task state and independent verification for reliable computer-use agents. | [Code](https://github.com/AMAP-ML/LongHorizon-Harness) · [Paper](https://arxiv.org/abs/2608.01964) |
+| **DreamX-Agent: LongHorizon-Harness** | Durable task state and independent verification for reliable computer-use agents. | [Code](https://github.com/AMAP-ML/LongHorizon-Harness) · [Paper](https://arxiv.org/abs/2608.01964) |
 | **MobilityBench** | Real-world benchmark for route-planning agents in AMAP-native mobility scenarios. | [Code](https://github.com/AMAP-ML/MobilityBench) |
-| **SkillClaw** | Evolves reusable agent skills from real interaction traces. | [Code](https://github.com/AMAP-ML/SkillClaw) |
+| **DreamX-Agent: SkillClaw** | Evolves reusable agent skills from real interaction traces. | [Code](https://github.com/AMAP-ML/SkillClaw) |
 | **FluxText** | Controllable scene-text editing for practical visual-asset creation, accepted by IEEE TMM. | [Code](https://github.com/AMAP-ML/FluxText) · [Paper](https://arxiv.org/abs/2505.03329) |
 
 <p align="right"><a href="#project-map">Browse the complete project map →</a></p>
@@ -60,7 +60,7 @@ For AMAP, this closes a learning-and-deployment loop across maps, routes, places
 |:--|:--|:--|
 | **Understand and predict the world** | DreamX-Predictor · DreamX-REC | [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map), [SocioReasoner](https://github.com/AMAP-ML/SocioReasoner), [MobilityBench](https://github.com/AMAP-ML/MobilityBench) |
 | **Generate and simulate the world** | DreamX-World · DreamX-Creator | [FluxText](https://github.com/AMAP-ML/FluxText), [DreamX-World](https://github.com/AMAP-ML/DreamX-World), [Code2World](https://github.com/AMAP-ML/Code2World) |
-| **Plan and act in the world** | DreamX-Agent · DreamX-Phi | [SkillClaw](https://github.com/AMAP-ML/SkillClaw), [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness), [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) |
+| **Plan and act in the world** | DreamX-Agent · DreamX-Phi | [DreamX-Agent: SkillClaw](https://github.com/AMAP-ML/SkillClaw), [DreamX-Agent: LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness), [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) |
 
 ### One foundation, six families
 
@@ -82,7 +82,7 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 - **2026.09.03** — [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator) open-sources model weights and inference code for a 7B native joint audio-video generator and an autoregressive one-step 2K refiner, enabling synchronized generation of video, speech, sound effects, and ambience. [Report](https://arxiv.org/abs/2608.31106) · [Models](https://huggingface.co/GD-ML/DreamX-Creator)
 - **2026.08.21** — The DreamX team has 3 papers accepted to EMNLP 2026, advancing multimodal continual learning, self-evolving agents, and language-model reasoning.
 - **2026.08.13** — [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) launches a geometry-aware, action-conditioned video world model for robotic manipulation, leading WorldArena 2.0 Track 1 in the August 12 leaderboard snapshot. [Paper](https://arxiv.org/abs/2608.13489)
-- **2026.08.03** — [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage–Execute–Audit loop for durable, verified computer-use progress. [Paper](https://arxiv.org/abs/2608.01964)
+- **2026.08.03** — [DreamX-Agent: LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduces a Manage–Execute–Audit loop for durable, verified computer-use progress. [Paper](https://arxiv.org/abs/2608.01964)
 - **2026.07.20** — [OmniDance](https://arxiv.org/abs/2606.30019) is selected as an ECCV 2026 Oral, advancing large-scale multimodal dance-video generation from text, image, and music.
 - **2026.06.18** — Five DreamX papers are accepted to ECCV 2026, spanning spatial intelligence, generative modeling, and multimodal AI.
 - **2026.06.15** — [DreamX-World](https://github.com/AMAP-ML/DreamX-World) releases its 1.0 technical report and the DreamX-World-5B model for one-minute interactive world generation. [Report](https://arxiv.org/abs/2606.16993)
@@ -153,8 +153,8 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 
 | Repository | Contribution | Venue |
 |:--|:--|:--|
-| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage–Execute–Audit loops. | arXiv 2026 |
-| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill-library improvement. | — |
+| [DreamX-Agent: LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Verified long-horizon computer use through durable task state and Manage–Execute–Audit loops. | arXiv 2026 |
+| [DreamX-Agent: SkillClaw](https://github.com/AMAP-ML/SkillClaw) | Agentic evolver for collective skill-library improvement. | — |
 | [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | Tree-search rollouts for LLM-agent reinforcement learning. | ICLR 2026 |
 | [CoEvolve](https://github.com/AMAP-ML/CoEvolve) | Agent–data mutual evolution for training LLM agents. | ACL 2026 |
 | [Role-Agent](https://github.com/AMAP-ML/roleagent) | Dual-role evolution that trains an LLM as both an agent and an environment model. | EMNLP 2026 |

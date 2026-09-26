@@ -12,7 +12,7 @@
 <p align="center">
   DreamX is the spatial intelligence portfolio of <a href="https://amap.com/">Alibaba AMAP</a>, built and released by the <b>DreamX team</b> through <a href="https://github.com/AMAP-ML">AMAP-ML</a>.<br/>
   We connect research, production systems, and real-world deployment across maps, mobility, local services, digital content, and interactive worlds.<br/>
-  The team releases open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, SIGGRAPH Asia, IJCV, IEEE TMM, ICCV, ICML, KDD, CIKM, EMNLP, ACM MM,</b> and <b>WWW</b>.
+  The team releases open-source projects, benchmarks, and publications at <b>ICLR, CVPR, ECCV, ACL, AAAI, SIGGRAPH, SIGGRAPH Asia, IJCV, IEEE TMM, ICCV, ICML, NeurIPS, KDD, CIKM, EMNLP, ACM MM,</b> and <b>WWW</b>.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## At a glance
 
-<p align="center"><b>40+</b> open-source projects &nbsp;·&nbsp; <b>53</b> papers at major venues in 2026 &nbsp;·&nbsp; <b>3</b> core problems &nbsp;·&nbsp; <b>6</b> DreamX model and system families</p>
+<p align="center"><b>40+</b> open-source projects &nbsp;·&nbsp; <b>67</b> papers at major venues in 2026 &nbsp;·&nbsp; <b>3</b> core problems &nbsp;·&nbsp; <b>6</b> DreamX model and system families</p>
 
 | Understand & Predict | Generate & Simulate | Plan & Act |
 |:--|:--|:--|
@@ -79,6 +79,7 @@ All DreamX families share spatial data and knowledge, multimodal foundation mode
 
 ## Recent updates
 
+- **2026.09.26** — The DreamX team has 14 papers accepted to NeurIPS 2026, including one Spotlight paper.
 - **2026.09.03** — [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator) open-sources model weights and inference code for a 7B native joint audio-video generator and an autoregressive one-step 2K refiner, enabling synchronized generation of video, speech, sound effects, and ambience. [Report](https://arxiv.org/abs/2608.31106) · [Models](https://huggingface.co/GD-ML/DreamX-Creator)
 - **2026.08.21** — The DreamX team has 3 papers accepted to EMNLP 2026, advancing multimodal continual learning, self-evolving agents, and language-model reasoning.
 - **2026.08.13** — [DreamX-Phi 1.0](https://github.com/AMAP-ML/DreamX-Phi) launches a geometry-aware, action-conditioned video world model for robotic manipulation, leading WorldArena 2.0 Track 1 in the August 12 leaderboard snapshot. [Paper](https://arxiv.org/abs/2608.13489)
